@@ -1,0 +1,9 @@
+stage	tool	version	path	timestamp
+06_decontam	flye	2.9.6-b1802	<tools>/Flye/bin/flye	2026-07-30T14:04:48Z
+06_decontam	filtlong	Filtlong v0.3.1	<tools>/Filtlong/bin/filtlong	2026-07-30T14:04:48Z
+06_decontam	kleborate	Kleborate v3.2.4	<envs>/kleborate/kleborate_env/bin/kleborate	2026-07-30T14:04:49Z
+06_decontam	python_kraken2_env	Python 3.14.3	<envs>/taxonomy/kraken2_env/bin/python	2026-07-30T14:04:49Z
+06_autocycler	autocycler	Autocycler 0.5.2	<tools>/autocycler-conda-env/bin/autocycler	2026-07-31T08:34:47Z
+06_autocycler	raven	1.8.3	<tools>/autocycler-conda-env/bin/raven	2026-07-31T08:34:47Z
+06_autocycler	miniasm	0.3-r179	<tools>/autocycler-conda-env/bin/miniasm	2026-07-31T08:34:47Z
+06_autocycler	flye_autocycler_env	2.9.6-b1802	<tools>/autocycler-conda-env/bin/python	2026-07-31T08:34:48Z

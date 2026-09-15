@@ -1,0 +1,9 @@
+# Everything the notebooks need. These are the versions they were last executed under,
+# and the versions their stored outputs came from.
+pandas==3.0.5
+numpy==2.5.1
+matplotlib==3.11.1
+jupyterlab==4.6.2
+
+# scripts/01_sequencing_metadata.py additionally needs pod5 (0.3.35 was used); it reads
+# raw POD5 files, which are not part of this repository.

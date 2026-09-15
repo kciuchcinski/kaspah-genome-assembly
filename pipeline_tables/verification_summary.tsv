@@ -1,0 +1,317 @@
+sample	asm_num_seqs	asm_sum_len	asm_max_len	asm_n_chromosomes	asm_chr_circular	asm_chr_coverage	mapped_pct	properly_paired_pct	supplementary_alignments	kbt_ont_species	kbt_ont_ST	kbt_ont_K_locus	kbt_ont_K_locus_confidence	kbt_illumina_species	kbt_illumina_ST	kbt_illumina_K_locus	kbt_illumina_K_locus_confidence	kbt_species_concordant	kbt_ST_concordant	kbt_K_locus_concordant	kraken2_status	kraken2_dominant_species	kraken2_klebsiella_pct	kraken2_flags
+INF001.1	2	5658601	5571678	1	Y	79	98.80	98.63	676	Klebsiella variicola subsp. variicola	ST3090-1LV	KL3	Typeable	Klebsiella variicola subsp. variicola	ST3090	KL3	Typeable	YES	YES	YES	PASS	Klebsiella variicola	97.29	
+INF001.2	4	5675701	5243603	1	Y	117	82.22	79.41	5411	Klebsiella pneumoniae	ST1449	KL107	Typeable	Klebsiella variicola subsp. variicola	ST3090	KL3	Typeable	NO	NO	NO	PASS	Klebsiella pneumoniae	98.39	
+INF002	4	5733472	5425252	1	Y	117	99.92	99.76	969	Klebsiella pneumoniae	ST133	KL116	Typeable	Klebsiella pneumoniae	ST133	KL116	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.34	
+INF003	3	5534700	5232856	1	Y	157	97.09	96.77	352	Klebsiella pneumoniae	ST323	KL21	Typeable	Klebsiella pneumoniae	ST323	KL21	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.32	
+INF004	3	5359970	5266566	1	Y	139	99.42	99.05	1402	Klebsiella pneumoniae	ST345	KL15	Typeable	Klebsiella pneumoniae	ST345	KL15	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.54	
+INF005	8	5985259	5570473	1	Y	67	99.81	99.41	1821	Klebsiella variicola subsp. variicola	ST641	KL60	Typeable	Klebsiella variicola subsp. variicola	ST641	KL60	Typeable	YES	YES	YES	PASS	Klebsiella variicola	94.38	
+INF006	4	5619104	5301889	1	Y	156	98.19	97.93	1646	Klebsiella pneumoniae	ST35	KL22	Typeable	Klebsiella pneumoniae	ST35	KL22	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.35	
+INF007	5	5612167	5243624	1	Y	98	99.82	99.66	1180	Klebsiella pneumoniae	ST1449-1LV	KL107	Typeable	Klebsiella pneumoniae	ST1449	KL107	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.51	
+INF008	3	5569047	5325627	1	Y	165	99.30	99.06	969	Klebsiella pneumoniae	ST221	KL39	Typeable	Klebsiella pneumoniae	ST221	KL39	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	93.14	
+INF011	3	5480762	5305441	1	Y	98	99.53	99.26	998	Klebsiella pneumoniae	ST1393	KL8	Typeable	Klebsiella pneumoniae	ST1393	KL8	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.05	
+INF012	1	5310402	5310402	1	Y	90	99.90	99.65	1103	Klebsiella pneumoniae	ST690	KL30	Typeable	Klebsiella pneumoniae	ST690	KL30	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.71	
+INF013	1	5282699	5282699	1	Y	123	99.96	99.74	507	Klebsiella pneumoniae	ST1583	KL102	Typeable	Klebsiella pneumoniae	ST1583	KL102	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.95	
+INF014	3	5523819	5348667	1	Y	135	99.75	99.44	1086	Klebsiella pneumoniae	ST25	KL2	Typeable	Klebsiella pneumoniae	ST25	KL2	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.97	
+INF016	5	5549717	5194021	1	Y	87	98.65	98.49	12581	Klebsiella pneumoniae	ST27	KL109	Typeable	Klebsiella pneumoniae	ST27	KL109	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	92.53	
+INF017	2	5424574	5313543	1	Y	222	99.15	98.95	774	Klebsiella pneumoniae	ST35	KL22	Typeable	Klebsiella pneumoniae	ST35	KL22	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.00	
+INF019	3	5769276	5330475	1	Y	283	98.13	98.00	2122	Klebsiella pneumoniae	ST20	KL28	Typeable	Klebsiella pneumoniae	ST20	KL28	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.67	
+INF020	4	5692714	5295200	1	Y	76	98.66	98.12	721	Klebsiella pneumoniae	ST20	KL28	Typeable	Klebsiella pneumoniae	ST20	KL28	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.49	
+INF023	3	5472348	5281709	1	Y	74	99.83	99.67	1301	Klebsiella pneumoniae	ST2997	KL158	Typeable	Klebsiella pneumoniae	ST2997	KL158	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.58	
+INF024	5	5668651	5280112	1	Y	81	99.01	98.36	1795	Klebsiella pneumoniae	ST1138	KL71	Typeable	Klebsiella pneumoniae	ST1138	KL71	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.64	
+INF025	3	5445559	5120569	1	Y	104	99.97	99.50	641	Klebsiella pneumoniae	ST491	KL118	Typeable	Klebsiella pneumoniae	ST491	KL118	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.90	
+INF027	2	5507936	5311651	1	Y	140	99.89	99.75	5279	Klebsiella pneumoniae	ST215	KL16	Typeable	Klebsiella pneumoniae	ST215	KL16	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.74	
+INF028	2	5452926	5283154	1	Y	82	98.73	98.41	645	Klebsiella pneumoniae	ST45	KL24	Typeable	Klebsiella pneumoniae	ST45	KL24	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.80	
+INF030	4	5581765	5231211	1	Y	53	99.96	99.61	1491	Klebsiella pneumoniae	ST3038	KL24	Typeable	Klebsiella pneumoniae	ST3038	KL24	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.97	
+INF033	4	5540700	5226327	1	Y	62	95.07	94.72	1261	Klebsiella pneumoniae	ST27	KL22	Typeable	Klebsiella pneumoniae	ST27	KL22	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.59	
+INF034_v2	2	5500199	5369968	1	Y	249	97.89	97.60	654	Klebsiella pneumoniae	ST15-1LV	KL24	Typeable	Klebsiella pneumoniae	ST15-1LV	KL24	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.93	
+INF035_v2	3	5219425	5123688	1	N	124	98.96	98.66	1150	Klebsiella quasipneumoniae subsp. similipneumoniae	ST5872	KL7	Typeable	Klebsiella quasipneumoniae subsp. similipneumoniae	ST5872	KL7	Untypeable	YES	YES	YES	PASS	Klebsiella quasipneumoniae	96.97	
+INF036	1	5512243	5512243	1	Y	168	99.88	99.73	2095	Klebsiella variicola subsp. variicola	ST360	KL53	Typeable	Klebsiella variicola subsp. variicola	ST360	KL53	Typeable	YES	YES	YES	PASS	Klebsiella variicola	98.60	
+INF038	1	5281179	5281179	1	Y	159	99.94	99.65	805	Klebsiella pneumoniae	ST60	KL5	Typeable	Klebsiella pneumoniae	ST60	KL5	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	99.31	
+INF039	1	5233685	5233685	1	Y	206	99.83	99.67	821	Klebsiella pneumoniae	ST2931	KL22	Typeable	Klebsiella pneumoniae	ST2931	KL22	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.48	
+INF040	3	5661449	5357752	1	Y	70	97.71	97.48	1076	Klebsiella pneumoniae	ST20	KL28	Typeable	Klebsiella pneumoniae	ST20	KL28	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.42	
+INF041	3	5390562	5262321	1	Y	70	99.97	99.64	936	Klebsiella pneumoniae	ST1263	KL10	Typeable	Klebsiella pneumoniae	ST1263	KL10	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.07	
+INF045	3	5562597	5258375	1	Y	142	99.90	99.53	1218	Klebsiella pneumoniae	ST1547	KL2	Typeable	Klebsiella pneumoniae	ST1547	KL2	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	91.31	
+INF046	4	5680938	5360566	1	Y	138	98.04	97.71	1329	Klebsiella pneumoniae	ST182	KL47	Typeable	Klebsiella pneumoniae	ST182	KL47	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.88	
+INF047	2	5586162	5479155	1	Y	112	99.97	99.80	1292	Klebsiella variicola subsp. variicola	ST3077	KL120	Typeable	Klebsiella variicola subsp. variicola	ST3077	KL120	Typeable	YES	YES	YES	PASS	Klebsiella variicola	99.01	
+INF048	2	5755549	5577142	1	Y	138	99.97	99.70	829	Klebsiella variicola subsp. variicola	ST616	KL54	Typeable	Klebsiella variicola subsp. variicola	ST616	KL54	Typeable	YES	YES	YES	PASS	Klebsiella variicola	97.56	
+INF050	4	5603387	5228931	1	Y	92	94.90	94.57	821	Klebsiella pneumoniae	ST323	KL21	Typeable	Klebsiella pneumoniae	ST323	KL21	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.81	
+INF051	1	5249905	5249905	1	Y	202	99.97	99.77	805	Klebsiella pneumoniae	ST882	KL16	Typeable	Klebsiella pneumoniae	ST882	KL16	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.89	
+INF052	1	5343655	5343655	1	Y	93	99.95	99.83	712	Klebsiella pneumoniae	ST3071	KL35	Typeable	Klebsiella pneumoniae	ST3071	KL35	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.87	
+INF053	5	5564295	5280634	1	Y	310	99.96	99.72	1014	Klebsiella pneumoniae	ST113	KL114	Typeable	Klebsiella pneumoniae	ST113	KL114	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.98	
+INF054	4	5562342	5315139	1	N	154	99.97	99.70	760	Klebsiella pneumoniae	ST1322	KL139	Typeable	Klebsiella pneumoniae	ST1322	KL139	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.61	
+INF055	3	5381463	5281844	1	Y	71	99.96	99.85	786	Klebsiella pneumoniae	ST268	KL20	Typeable	Klebsiella pneumoniae	ST268	KL20	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	93.90	
+INF056	2	5601347	5365835	1	Y	210	97.10	96.64	1350	Klebsiella pneumoniae	ST3042	KL18	Typeable	Klebsiella pneumoniae	ST3042	KL18	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.95	
+INF057	7	6035608	5233032	1	Y	373	99.51	99.30	1330	Klebsiella pneumoniae	ST27	KL142	Typeable	Klebsiella pneumoniae	ST27	KL142	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.99	
+INF060	3	5365444	5252790	1	Y	120	99.82	99.62	643	Klebsiella pneumoniae	ST603	KL22	Typeable	Klebsiella pneumoniae	ST603	KL22	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.93	
+INF062	3	5815801	5537693	1	Y	184	99.96	99.73	2069	Klebsiella pneumoniae	ST230	KL167	Typeable	Klebsiella pneumoniae	ST230	KL167	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.18	
+INF063	2	5438023	5296380	1	Y	341	99.13	98.96	1056	Klebsiella pneumoniae	ST110	KL108	Typeable	Klebsiella pneumoniae	ST110	KL108	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.37	
+INF066	1	5280130	5280130	1	Y	160	99.94	99.74	2798	Klebsiella pneumoniae	ST3070	KL166	Typeable	Klebsiella pneumoniae	ST3070	KL166	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.96	
+INF067	4	5482599	5330559	1	Y	143	99.86	99.65	814	Klebsiella pneumoniae	ST45	KL24	Typeable	Klebsiella pneumoniae	ST45	KL24	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.89	
+INF068	2	5491306	5259938	1	Y	343	98.93	98.71	1434	Klebsiella pneumoniae	ST584	KL60	Typeable	Klebsiella pneumoniae	ST584	KL60	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.99	
+INF070	3	5656370	5228950	1	Y	303	98.38	98.08	854	Klebsiella pneumoniae	ST323	KL21	Typeable	Klebsiella pneumoniae	ST323	KL21	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.62	
+INF071.1	3	5557597	5309915	1	Y	33	99.99	99.78	628	Klebsiella pneumoniae	ST607	KL48	Typeable	Klebsiella pneumoniae	ST607	KL48	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.05	
+INF071.2	2	5602428	5362695	1	Y	51	87.89	86.87	3107	Klebsiella pneumoniae	ST133	KL116	Typeable	Klebsiella pneumoniae	ST607	KL48	Typeable	YES	NO	NO	PASS	Klebsiella pneumoniae	97.44	
+INF072	2	5608740	5369005	1	N	205	98.60	98.43	760	Klebsiella pneumoniae	ST133-1LV	KL116	Typeable	Klebsiella pneumoniae	ST133	KL116	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.23	
+INF074	13	5933812	5282280	1	N	723	98.69	98.40	2241	Klebsiella pneumoniae	ST111	KL63	Typeable	Klebsiella pneumoniae	ST111	KL63	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.21	
+INF077_v2	1	5345083	5345083	1	Y	152	99.56	99.27	707	Klebsiella pneumoniae	ST37	KL14	Typeable	Klebsiella pneumoniae	ST37	KL14	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.25	
+INF080	2	5706591	5503653	1	Y	204	99.48	99.16	834	Klebsiella pneumoniae	ST1694	KL63	Typeable	Klebsiella pneumoniae	ST1694	KL63	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.49	
+INF081	2	5700919	5480093	1	Y	152	99.98	99.78	1795	Klebsiella variicola subsp. variicola	ST3080	KL105	Typeable	Klebsiella variicola subsp. variicola	ST3080	KL105	Typeable	YES	YES	YES	PASS	Klebsiella variicola	96.28	
+INF082	3	5654671	5315165	1	Y	120	96.89	96.71	1570	Klebsiella pneumoniae	ST3041	KL30	Typeable	Klebsiella pneumoniae	ST3041	KL30	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.62	
+INF083	2	5484839	5302835	1	Y	57	99.03	98.73	376	Klebsiella pneumoniae	ST3046	KL22	Typeable	Klebsiella pneumoniae	ST3046	KL22	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.03	
+INF084_v2	2	5344868	5116495	1	Y	201	99.44	99.15	711	Klebsiella pneumoniae	ST661	KL47	Typeable	Klebsiella pneumoniae	ST661	KL47	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.81	
+INF087	4	5447766	5188797	1	Y	178	99.17	99.00	961	Klebsiella pneumoniae	ST3050	KL36	Typeable	Klebsiella pneumoniae	ST3050	KL36	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.66	
+INF088	3	5533868	5321136	1	Y	180	99.32	98.98	1057	Klebsiella pneumoniae	ST111	KL113	Typeable	Klebsiella pneumoniae	ST111	KL113	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.50	
+INF089	2	5479596	5301425	1	Y	201	99.99	99.74	566	Klebsiella quasipneumoniae subsp. quasipneumoniae	ST3091	KL11	Typeable	Klebsiella quasipneumoniae subsp. quasipneumoniae	ST3091	KL11	Typeable	YES	YES	YES	PASS	Klebsiella quasipneumoniae	96.86	
+INF090	1	5396241	5396241	1	Y	87	98.86	98.64	942	Klebsiella pneumoniae	ST185	KL130	Typeable	Klebsiella pneumoniae	ST185	KL130	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.29	
+INF091.1	2	5508939	5348829	1	Y	147	98.47	98.21	663	Klebsiella pneumoniae	ST45	KL24	Typeable	Klebsiella pneumoniae	ST45	KL24	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	92.63	
+INF091.2	2	5600852	5348825	1	Y	191	99.99	99.79	726	Klebsiella pneumoniae	ST45	KL24	Typeable	Klebsiella pneumoniae	ST45	KL24	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.31	
+INF092.1	1	5340412	5340412	1	Y	171	99.26	99.02	755	Klebsiella pneumoniae	ST2415	KL131	Typeable	Klebsiella pneumoniae	ST2415	KL131	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.53	
+INF092.2	5	5024780	4861420	1	Y	40	16.85	11.36	1276	NO_KLEBORATE_CALL	NO_KLEBORATE_CALL	NO_KLEBORATE_CALL		Klebsiella pneumoniae	ST2415	KL131	Typeable	NO	NO	NO	FAIL	Klebsiella pneumoniae	1.41	NON_KLEBSIELLA_CONTAMINATION: Enterobacter 95.2% | LOW_KLEBSIELLA: only 1.4% of reads classified as Klebsiella (threshold: 50.0%)
+INF093.1	5	5820577	5228965	1	Y	62	95.54	95.23	1201	Klebsiella pneumoniae	ST323	KL21	Typeable	Klebsiella pneumoniae	ST323	KL21	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.86	
+INF093.2	3	5567164	5228924	1	Y	114	91.77	91.19	1270	Klebsiella pneumoniae	ST323	KL21	Typeable	Klebsiella pneumoniae	ST323	KL21	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.47	
+INF096	30	5959360	2808496	0	N/A	N/A	99.94	99.42	2186	Klebsiella pneumoniae	ST603	KL130	Typeable	Klebsiella pneumoniae	ST603	KL22	Typeable	YES	YES	NO	PASS	Klebsiella pneumoniae	97.28	
+INF097	2	5512116	5458101	1	Y	139	99.98	99.73	664	Klebsiella pneumoniae	ST1307	KL127	Typeable	Klebsiella pneumoniae	ST1307	KL127	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.95	
+INF098	3	5438314	5317458	1	Y	150	98.27	97.90	375	Klebsiella pneumoniae	ST611	KL71	Typeable	Klebsiella pneumoniae	ST611	KL71	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.48	
+INF099	1	5338020	5338020	1	Y	68	99.75	99.51	314	Klebsiella pneumoniae	ST1583	KL102	Typeable	Klebsiella pneumoniae	ST1583	KL102	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.44	
+INF100	2	5306798	5073538	1	Y	169	99.99	99.70	660	Klebsiella pneumoniae	ST22	KL9	Typeable	Klebsiella pneumoniae	ST22	KL9	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.72	
+INF101	3	5525336	5329904	1	Y	81	99.95	99.66	2015	Klebsiella pneumoniae	ST133	KL116	Typeable	Klebsiella pneumoniae	ST133	KL116	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	91.83	
+INF103	4	5763799	5514384	1	Y	187	99.09	98.54	1375	Klebsiella variicola subsp. variicola	ST3087	KL46	Typeable	Klebsiella variicola subsp. variicola	ST3087	KL46	Typeable	YES	YES	YES	PASS	Klebsiella variicola	97.21	
+INF104.1	2	5499655	5348827	1	Y	68	99.07	98.78	661	Klebsiella pneumoniae	ST45	KL24	Typeable	Klebsiella pneumoniae	ST45	KL24	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.16	
+INF104.2	2	5556781	5348835	1	Y	51	99.99	99.75	556	Klebsiella pneumoniae	ST45	KL24	Typeable	Klebsiella pneumoniae	ST45	KL24	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.79	
+INF106	2	5323892	5108948	1	N	131	99.64	99.36	491	Klebsiella pneumoniae	ST690	KL30	Typeable	Klebsiella pneumoniae	ST690	KL30	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.46	
+INF107	1	5184076	5184076	1	Y	212	99.94	99.45	306	Klebsiella pneumoniae	ST3064	KL54	Typeable	Klebsiella pneumoniae	ST3064	KL54	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.92	
+INF108	1	5229284	5229284	1	Y	112	99.99	99.68	421	Klebsiella pneumoniae	ST247	KL10	Typeable	Klebsiella pneumoniae	ST247	KL10	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.04	
+INF109	1	5151592	5151592	1	Y	258	99.99	99.59	399	Klebsiella pneumoniae	ST229	KL63	Typeable	Klebsiella pneumoniae	ST229	KL63	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.50	
+INF110	2	5495428	5291810	1	Y	85	99.01	98.46	772	Klebsiella pneumoniae	ST520	KL2	Typeable	Klebsiella pneumoniae	ST520	KL2	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.04	
+INF112	2	5710613	5492044	1	Y	120	99.49	99.11	525	Klebsiella variicola subsp. variicola	ST2988	KL137	Typeable	Klebsiella variicola subsp. variicola	ST2988	KL137	Typeable	YES	YES	YES	PASS	Klebsiella variicola	96.84	
+INF113	5	5593497	5323646	1	Y	63	99.99	99.52	998	Klebsiella pneumoniae	ST321	KL3	Typeable	Klebsiella pneumoniae	ST321	KL3	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.07	
+INF114	2	5693391	5582887	1	N	209	99.99	99.59	367	Klebsiella variicola subsp. variicola	ST2989	KL55	Typeable	Klebsiella variicola subsp. variicola	ST2989	KL55	Typeable	YES	YES	YES	PASS	Klebsiella variicola	94.12	
+INF117.1	1	5150283	5150283	1	Y	68	97.47	96.98	354	Klebsiella pneumoniae	ST3045	KL146	Typeable	Klebsiella pneumoniae	ST3045	KL146	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.02	
+INF117.2	3	5579813	5323609	1	Y	102	90.61	89.48	3500	Klebsiella pneumoniae	ST321	KL3	Typeable	Klebsiella pneumoniae	ST3045	KL146	Typeable	YES	NO	NO	PASS	Klebsiella pneumoniae	95.25	
+INF118	6	5852595	5472601	1	Y	170	98.05	97.26	632	Klebsiella pneumoniae	ST3073	KL132	Typeable	Klebsiella pneumoniae	ST3073	KL132	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	93.12	
+INF120	2	5477093	5328174	1	Y	173	99.99	99.61	398	Klebsiella pneumoniae	ST309	KL42	Typeable	Klebsiella pneumoniae	ST309	KL42	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.41	
+INF123	1	5488165	5488165	1	Y	187	99.99	99.73	686	Klebsiella variicola subsp. variicola	ST360	KL53	Typeable	Klebsiella variicola subsp. variicola	ST360	KL53	Typeable	YES	YES	YES	PASS	Klebsiella variicola	97.18	
+INF126	2	5449391	5340090	1	Y	251	99.99	99.64	623	Klebsiella pneumoniae	ST1621	KL46	Typeable	Klebsiella pneumoniae	ST1621	KL46	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.80	
+INF128	8	5799645	5237971	1	Y	129	98.86	98.26	1977	Klebsiella pneumoniae	ST27	KL169	Typeable	Klebsiella pneumoniae	ST27	KL169	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	87.58	
+INF129	2	5430486	5235858	1	Y	127	99.99	99.69	424	Klebsiella pneumoniae	ST1193	KL22	Typeable	Klebsiella pneumoniae	ST1193	KL22	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.11	
+INF130	6	5694281	5201803	1	Y	187	99.99	99.63	676	Klebsiella pneumoniae	ST1441	KL10	Typeable	Klebsiella pneumoniae	ST1441	KL10	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.49	
+INF131_v2	1	5328700	5328700	1	Y	202	99.71	99.21	1084	Klebsiella pneumoniae	ST3066	KL13	Typeable	Klebsiella pneumoniae	ST3066	KL13	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.02	
+INF132	1	5152599	5152599	1	Y	212	99.83	99.42	354	Klebsiella pneumoniae	ST3075	KL133	Typeable	Klebsiella pneumoniae	ST3075	KL133	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.80	
+INF136.1	5	6020901	5661278	1	Y	53	99.98	99.52	1051	Klebsiella variicola subsp. variicola	ST616	KL54	Typeable	Klebsiella variicola subsp. variicola	ST616	KL54	Typeable	YES	YES	YES	PASS	Klebsiella variicola	95.79	
+INF136.2	5	6042667	5660325	1	Y	23	99.98	99.54	961	Klebsiella variicola subsp. variicola	ST616	KL54	Typeable	Klebsiella variicola subsp. variicola	ST616	KL54	Typeable	YES	YES	YES	PASS	Klebsiella variicola	91.56	
+INF137	1	5264645	5264645	1	Y	191	99.94	99.81	948	Klebsiella pneumoniae	ST3047	KL168	Typeable	Klebsiella pneumoniae	ST3047	KL168	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.23	
+INF138	1	5212172	5212172	1	Y	31	99.99	99.72	363	Klebsiella pneumoniae	ST458	KL142	Typeable	Klebsiella pneumoniae	ST458	KL142	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.06	
+INF139	2	5537775	5439879	1	Y	142	99.99	99.76	915	Klebsiella pneumoniae	ST889	KL54	Typeable	Klebsiella pneumoniae	ST889	KL54	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.98	
+INF143	2	5457299	5347997	1	Y	183	99.94	96.93	9770	Klebsiella pneumoniae	ST280	KL23	Typeable	Klebsiella pneumoniae	ST280	KL23	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.52	
+INF147	3	5721681	5405936	1	N	271	99.11	98.71	328	Klebsiella pneumoniae	ST412	KL57	Typeable	Klebsiella pneumoniae	ST412	KL57	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.03	
+INF149	1	5304804	5304804	1	Y	272	99.99	99.79	526	Klebsiella pneumoniae	ST629	KL134	Typeable	Klebsiella pneumoniae	ST629	KL134	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.12	
+INF150	2	5306410	5272866	1	Y	122	99.99	99.47	461	Klebsiella pneumoniae	ST176	KL13	Typeable	Klebsiella pneumoniae	ST176	KL13	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.33	
+INF152	1	5439840	5439840	1	Y	111	99.99	99.71	361	Klebsiella variicola subsp. variicola	ST3094	KL103	Typeable	Klebsiella variicola subsp. variicola	ST3094	KL103	Typeable	YES	YES	YES	PASS	Klebsiella variicola	98.88	
+INF153	2	5484745	5302740	1	Y	92	99.26	98.85	402	Klebsiella pneumoniae	ST3046	KL22	Typeable	Klebsiella pneumoniae	ST3046	KL22	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.30	
+INF155	3	5501627	5253962	1	Y	99	98.63	98.51	806	Klebsiella pneumoniae	ST882-1LV	KL16	Typeable	Klebsiella pneumoniae	ST882	KL16	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	92.19	
+INF159	2	5546816	5363981	1	Y	151	96.01	95.79	469	Klebsiella pneumoniae	ST12	KL122	Typeable	Klebsiella pneumoniae	ST12	KL122	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.64	
+INF160	3	5458830	5183168	1	Y	68	99.65	99.58	699	Klebsiella pneumoniae	ST3056	KL30	Typeable	Klebsiella pneumoniae	ST3056	KL30	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.48	
+INF162	2	5399690	5203383	1	Y	290	98.60	98.48	402	Klebsiella pneumoniae	ST20	KL28	Typeable	Klebsiella pneumoniae	ST20	KL28	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.41	
+INF165	4	5755013	5339334	1	Y	292	99.08	98.74	553	Klebsiella pneumoniae	ST54	KL14	Typeable	Klebsiella pneumoniae	ST54	KL14	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.34	
+INF166	2	5394719	5230962	1	Y	192	98.35	98.12	274	Klebsiella pneumoniae	ST2370	KL15	Typeable	Klebsiella pneumoniae	ST2370	KL15	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.66	
+INF167_v2	2	5573826	5308044	1	Y	276	99.32	98.98	1783	Klebsiella pneumoniae	ST17	KL25	Typeable	Klebsiella pneumoniae	ST17	KL25	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	92.91	
+INF169	3	5717413	5551611	1	Y	179	99.94	99.38	890	Klebsiella variicola subsp. variicola	ST1688	KL57	Typeable	Klebsiella variicola subsp. variicola	ST1688	KL57	Typeable	YES	YES	YES	PASS	Klebsiella variicola	92.11	
+INF170	3	5853872	5327758	1	Y	139	96.81	96.53	469	Klebsiella pneumoniae	ST2116	KL28	Typeable	Klebsiella pneumoniae	ST2116	KL28	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.00	
+INF172	2	5267785	5095733	1	Y	124	99.31	99.06	373	Klebsiella pneumoniae	ST540	KL9	Typeable	Klebsiella pneumoniae	ST540	KL9	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.22	
+INF173	1	5218064	5218064	1	Y	391	99.98	99.84	332	Klebsiella pneumoniae	ST256	KL47	Typeable	Klebsiella pneumoniae	ST256	KL47	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.17	
+INF175	1	5322799	5322799	1	Y	76	99.98	99.76	366	Klebsiella pneumoniae	ST1165	KL45	Typeable	Klebsiella pneumoniae	ST1165	KL45	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.13	
+INF176	3	5589472	5391031	1	Y	173	99.98	99.15	424	Klebsiella pneumoniae	ST37	KL14	Typeable	Klebsiella pneumoniae	ST37	KL14	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.45	
+INF180	3	5576674	5070588	1	Y	59	99.99	99.72	397	Klebsiella pneumoniae	ST661	KL28	Typeable	Klebsiella pneumoniae	ST661	KL28	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.94	
+INF181	3	5888708	5426547	1	Y	63	98.13	97.93	353	Klebsiella variicola subsp. variicola	ST347	KL14	Untypeable	Klebsiella variicola subsp. variicola	ST347	KL14	Untypeable	YES	YES	YES	PASS	Klebsiella variicola	93.19	
+INF183	3	5634915	5270989	1	Y	160	99.98	99.78	494	Klebsiella pneumoniae	ST36	KL51	Typeable	Klebsiella pneumoniae	ST36	KL51	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.22	
+INF184	2	5318229	5168645	1	Y	163	99.98	99.73	403	Klebsiella pneumoniae	ST3062	KL124	Typeable	Klebsiella pneumoniae	ST3062	KL124	Typeable	YES	YES	YES	FAIL	Klebsiella pneumoniae	92.57	NON_KLEBSIELLA_CONTAMINATION: Escherichia 5.9%
+INF186	6	10640892	5168628	2	Y,Y	285,215	99.27	99.09	204	Klebsiella pneumoniae	ST480	KL124	Typeable	Klebsiella quasipneumoniae subsp. similipneumoniae	ST480	KL52	Typeable	NO	YES	NO	FAIL	Klebsiella pneumoniae	95.96	MIXED_KLEBSIELLA: 2 species each ≥ 20.0% (Klebsiella pneumoniae 46.9%, Klebsiella quasipneumoniae 41.1%)
+INF187_v2	2	5683413	5459433	1	Y	263	99.65	99.34	775	Klebsiella pneumoniae	ST23	KL1	Typeable	Klebsiella pneumoniae	ST23	KL1	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.11	
+INF189	2	5581868	5430333	1	Y	98	99.64	99.37	325	Klebsiella variicola subsp. variicola	ST3083	KL53	Typeable	Klebsiella variicola subsp. variicola	ST3083	KL53	Typeable	YES	YES	YES	PASS	Klebsiella variicola	97.14	
+INF191	3	5480298	5226409	1	Y	55	99.99	99.73	1160	Klebsiella pneumoniae	ST86	KL2	Typeable	Klebsiella pneumoniae	ST86	KL2	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	93.91	
+INF193	3	5717849	5397970	1	Y	185	97.46	96.95	313	Klebsiella variicola subsp. variicola	ST681	KL10	Typeable	Klebsiella variicola subsp. variicola	ST681	KL10	Typeable	YES	YES	YES	PASS	Klebsiella variicola	96.82	
+INF195	2	5269757	5087395	1	Y	173	99.98	99.84	460	Klebsiella quasipneumoniae subsp. similipneumoniae	ST414	KL123	Typeable	Klebsiella quasipneumoniae subsp. similipneumoniae	ST414	KL123	Typeable	YES	YES	YES	FAIL	Klebsiella quasipneumoniae	97.33	MIXED_KLEBSIELLA: 2 species each ≥ 20.0% (Klebsiella quasipneumoniae 49.2%, Klebsiella pneumoniae 30.4%)
+INF196	4	5713254	5416411	1	Y	153	99.71	99.62	550	Klebsiella pneumoniae	ST66	KL2	Typeable	Klebsiella pneumoniae	ST66	KL2	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.14	
+INF197	4	5722730	5316136	1	Y	110	99.33	98.87	374	Klebsiella pneumoniae	ST27	KL38	Typeable	Klebsiella pneumoniae	ST27	KL38	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	89.10	
+INF198	3	5656724	5344836	1	Y	100	99.89	99.71	540	Klebsiella pneumoniae	ST1010	KL142	Typeable	Klebsiella pneumoniae	ST1010	KL142	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.03	
+INF199	1	5251111	5251111	1	Y	376	99.84	99.62	424	Klebsiella pneumoniae	ST629	KL10	Typeable	Klebsiella pneumoniae	ST629	KL10	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.96	
+INF200	1	5182527	5182527	1	Y	188	99.73	99.45	800	Klebsiella pneumoniae	ST292-1LV	KL143	Typeable	Klebsiella pneumoniae	ST292	KL143	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.68	
+INF202_v2	1	5182576	5182576	1	Y	257	99.76	99.09	1978	Klebsiella pneumoniae	ST292	KL143	Typeable	Klebsiella pneumoniae	ST292	KL143	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.14	
+INF203	2	5868617	5642338	1	Y	418	99.36	99.15	440	Klebsiella variicola subsp. variicola	ST3088	KL16	Typeable	Klebsiella variicola subsp. variicola	ST3088	KL16	Typeable	YES	YES	YES	PASS	Klebsiella variicola	95.87	
+INF204	4	5594018	5149945	1	Y	274	99.27	98.58	2123	Klebsiella pneumoniae	ST253	KL15	Typeable	Klebsiella pneumoniae	ST253	KL15	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.26	
+INF205	4	5524772	3151798	0	N/A	N/A	99.96	99.78	654	Klebsiella pneumoniae	ST3049	KL55	Typeable	Klebsiella pneumoniae	ST3049	KL55	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.32	
+INF207	3	5432226	5136865	1	Y	337	98.84	98.64	924	Klebsiella quasipneumoniae subsp. similipneumoniae	ST1308	KL144	Typeable	Klebsiella quasipneumoniae subsp. similipneumoniae	ST1308	KL144	Typeable	YES	YES	YES	PASS	Klebsiella quasipneumoniae	95.82	
+INF209	3	5715387	5397967	1	Y	202	98.61	98.42	482	Klebsiella variicola subsp. variicola	ST681	KL10	Typeable	Klebsiella variicola subsp. variicola	ST681	KL10	Typeable	YES	YES	YES	PASS	Klebsiella variicola	96.25	
+INF211	4	5568477	5302255	1	Y	425	99.99	99.72	527	Klebsiella pneumoniae	ST281	KL64	Typeable	Klebsiella pneumoniae	ST281	KL64	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.27	
+INF212	3	5569917	5397980	1	Y	105	98.59	98.38	491	Klebsiella variicola subsp. variicola	ST681	KL10	Typeable	Klebsiella variicola subsp. variicola	ST681	KL10	Typeable	YES	YES	YES	PASS	Klebsiella variicola	94.72	
+INF213	3	5526630	5228689	1	Y	187	97.06	96.79	592	Klebsiella pneumoniae	ST323	KL21	Typeable	Klebsiella pneumoniae	ST323	KL21	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.50	
+INF216	13	10667759	4060058	1	N	275	99.86	99.67	2034	Klebsiella variicola subsp. variicola	ST1165	KL53	Typeable	Klebsiella variicola subsp. variicola	ST3079	KL53	Typeable	YES	NO	YES	FAIL	Klebsiella pneumoniae	98.18	MIXED_KLEBSIELLA: 2 species each ≥ 20.0% (Klebsiella pneumoniae 58.2%, Klebsiella variicola 33.7%)
+INF217	3	5699083	5518605	1	Y	119	98.59	98.33	1266	Klebsiella variicola subsp. variicola	ST919	KL67	Typeable	Klebsiella variicola subsp. variicola	ST919	KL67	Typeable	YES	YES	YES	PASS	Klebsiella variicola	97.47	
+INF218	3	5898128	5652012	1	Y	185	97.81	97.59	565	Klebsiella variicola subsp. variicola	ST3081	KL15	Typeable	Klebsiella variicola subsp. variicola	ST3081	KL15	Typeable	YES	YES	YES	PASS	Klebsiella variicola	95.59	
+INF219	1	5450182	5450182	1	Y	122	99.98	99.84	424	Klebsiella variicola subsp. variicola	ST594	KL19	Typeable	Klebsiella variicola subsp. variicola	ST594	KL19	Typeable	YES	YES	YES	PASS	Klebsiella variicola	97.80	
+INF220	3	5355941	5165277	1	Y	49	99.98	99.78	504	Klebsiella pneumoniae	ST1877	KL14	Typeable	Klebsiella pneumoniae	ST1877	KL14	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.95	
+INF221	2	5362483	5220668	1	Y	166	99.62	99.35	310	Klebsiella quasipneumoniae subsp. similipneumoniae	ST1822	KL48	Typeable	Klebsiella quasipneumoniae subsp. similipneumoniae	ST1822	KL48	Typeable	YES	YES	YES	PASS	Klebsiella quasipneumoniae	97.18	
+INF224	2	5577004	5356941	1	Y	205	99.41	99.25	392	Klebsiella pneumoniae	ST336	KL25	Typeable	Klebsiella pneumoniae	ST336	KL25	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.68	
+INF225	3	5440881	5225153	1	Y	300	99.97	99.83	454	Klebsiella pneumoniae	ST86	KL2	Typeable	Klebsiella pneumoniae	ST86	KL2	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.06	
+INF226_v2	2	5577529	5356955	1	Y	105	99.33	98.59	2766	Klebsiella pneumoniae	ST336	KL25	Typeable	Klebsiella pneumoniae	ST336	KL25	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.99	
+INF227_v2	2	5429672	5225211	1	Y	212	99.52	98.63	2485	Klebsiella pneumoniae	ST86	KL2	Typeable	Klebsiella pneumoniae	ST86	KL2	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.45	
+INF229_v2	2	5518854	5454642	1	Y	138	99.48	98.62	2831	Klebsiella pneumoniae	ST3068	KL119	Typeable	Klebsiella pneumoniae	ST3068	KL119	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.53	
+INF230	3	5199105	5140529	1	Y	155	99.98	99.79	549	Klebsiella quasipneumoniae subsp. similipneumoniae	ST3093	KL47	Typeable	Klebsiella quasipneumoniae subsp. similipneumoniae	ST3093	KL47	Typeable	YES	YES	YES	PASS	Klebsiella quasipneumoniae	97.68	
+INF233	2	5444800	5322535	1	Y	158	99.13	98.90	536	Klebsiella pneumoniae	ST180	KL55	Typeable	Klebsiella pneumoniae	ST180	KL55	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.43	
+INF234	4	5577809	5312443	1	Y	181	99.09	99.02	5996	Klebsiella pneumoniae	ST134	KL25	Typeable	Klebsiella pneumoniae	ST134	KL25	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.29	
+INF238	2	5585011	5481429	1	Y	77	99.88	99.68	1065	Klebsiella variicola subsp. variicola	ST347	KL103	Typeable	Klebsiella variicola subsp. variicola	ST347	KL103	Typeable	YES	YES	YES	PASS	Klebsiella variicola	94.23	
+INF239	1	5147656	5147656	1	Y	212	98.59	98.52	296	Klebsiella pneumoniae	ST564	KL28	Typeable	Klebsiella pneumoniae	ST564	KL28	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.50	
+INF241	3	5481832	5238045	1	Y	169	99.99	99.80	419	Klebsiella pneumoniae	ST3072	KL39	Typeable	Klebsiella pneumoniae	ST3072	KL39	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.25	
+INF243	2	5542102	5357991	1	Y	194	98.16	97.86	393	Klebsiella pneumoniae	ST3072	KL39	Typeable	Klebsiella pneumoniae	ST3072	KL39	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.68	
+INF244	4	5705674	5383433	1	Y	219	99.36	97.57	8096	Klebsiella variicola subsp. variicola	ST681	KL10	Typeable	Klebsiella variicola subsp. variicola	ST681	KL10	Typeable	YES	YES	YES	PASS	Klebsiella variicola	95.76	
+INF245	3	5715390	5397964	1	Y	165	98.12	98.03	1242	Klebsiella variicola subsp. variicola	ST681	KL10	Typeable	Klebsiella variicola subsp. variicola	ST681	KL10	Typeable	YES	YES	YES	PASS	Klebsiella variicola	97.72	
+INF246	8	5719896	5355072	1	Y	157	99.75	99.48	874	Klebsiella pneumoniae	ST29	KL30	Typeable	Klebsiella pneumoniae	ST29	KL30	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	91.10	
+INF248	1	5221898	5221898	1	Y	180	99.97	99.56	460	Klebsiella pneumoniae	ST3063	KL20	Typeable	Klebsiella pneumoniae	ST3063	KL20	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.78	
+INF251_v2	2	5587853	5360120	1	Y	78	98.55	97.83	2509	Klebsiella pneumoniae	ST2623	KL52	Typeable	Klebsiella pneumoniae	ST2623	KL52	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	92.81	
+INF252	3	5571400	5424581	1	Y	249	99.87	99.35	626	Klebsiella pneumoniae	ST485	KL28	Typeable	Klebsiella pneumoniae	ST485	KL28	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	93.50	
+INF253	3	5505408	5308762	1	Y	183	98.05	97.58	710	Klebsiella pneumoniae	ST101	KL17	Typeable	Klebsiella pneumoniae	ST101	KL17	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.91	
+INF254.1	2	5452951	5235370	1	Y	14	98.44	98.35	492	Klebsiella pneumoniae	ST86	KL2	Typeable	Klebsiella pneumoniae	ST86	KL2	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.43	
+INF254.2	2	5452556	5235363	1	Y	33	98.42	98.32	314	Klebsiella pneumoniae	ST86	KL2	Typeable	Klebsiella pneumoniae	ST86	KL2	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.77	
+INF255.1_v2	9	5692226	5357236	1	Y	195	98.66	98.13	5263	Klebsiella pneumoniae	ST29	KL30	Typeable	Klebsiella pneumoniae	ST29	KL30	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	91.06	
+INF255.2_v2	746	15674009	278058	0	N/A	N/A	97.26	96.16	19662	Klebsiella pneumoniae	ST743-1LV	KL13	Typeable	Klebsiella pneumoniae	ST29	KL30	Typeable	YES	NO	NO	PASS	Klebsiella pneumoniae	83.20	
+INF256	2	5518209	5281438	1	Y	201	96.44	95.97	473	Klebsiella pneumoniae	ST3043	KL10	Typeable	Klebsiella pneumoniae	ST3043	KL10	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.45	
+INF257.1_v2	2	5660285	5448165	1	Y	396	99.62	99.24	1012	Klebsiella pneumoniae	ST3074	KL13	Typeable	Klebsiella pneumoniae	ST3074	KL13	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	93.32	
+INF257.2_v2	3	5352327	5178300	1	Y	70	99.65	99.40	1274	Klebsiella pneumoniae	ST1536	KL30	Typeable	Klebsiella pneumoniae	ST1536	KL30	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.03	
+INF258	2	5660263	5448144	1	Y	244	99.97	99.37	310	Klebsiella pneumoniae	ST3074	KL13	Typeable	Klebsiella pneumoniae	ST3074	KL13	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.95	
+INF259	3	5787319	5469260	1	Y	184	99.32	98.88	689	Klebsiella variicola subsp. variicola	ST3086	KL53	Typeable	Klebsiella variicola subsp. variicola	ST3086	KL53	Typeable	YES	YES	YES	PASS	Klebsiella variicola	95.13	
+INF260	4	5527439	5229233	1	N	187	97.61	97.03	558	Klebsiella pneumoniae	ST323	KL21	Typeable	Klebsiella pneumoniae	ST323	KL21	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.00	
+INF261	5	5682423	5357230	1	Y	188	97.44	96.55	1301	Klebsiella pneumoniae	ST29	KL30	Typeable	Klebsiella pneumoniae	ST29	KL30	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.08	
+INF262_v2	30	12392096	5802241	2	Y,Y	30,76	99.62	98.87	3696	Klebsiella michiganensis	NON_KPSC	NON_KPSC	NON_KPSC	Klebsiella michiganensis	NON_KPSC	NON_KPSC	NON_KPSC	YES	YES	YES	FAIL	Klebsiella variicola	89.98	MIXED_KLEBSIELLA: 2 species each ≥ 20.0% (Klebsiella variicola 28.0%, Klebsiella michiganensis 23.0%)
+INF264	4	5589211	5247487	1	Y	58	99.97	99.46	537	Klebsiella pneumoniae	ST1017	KL58	Typeable	Klebsiella pneumoniae	ST1017	KL58	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.18	
+INF265	2	5452707	5343328	1	Y	88	99.16	98.80	542	Klebsiella pneumoniae	ST1507	KL114	Typeable	Klebsiella pneumoniae	ST1507	KL114	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.54	
+INF267	2	5747720	5536490	1	Y	254	99.59	99.52	339	Klebsiella variicola subsp. variicola	ST3078	KL64	Typeable	Klebsiella variicola subsp. variicola	ST3078	KL64	Typeable	YES	YES	YES	PASS	Klebsiella variicola	98.50	
+INF268	2	5545967	5305940	1	Y	200	99.57	98.96	404	Klebsiella pneumoniae	ST3098	KL24	Typeable	Klebsiella pneumoniae	ST3098	KL24	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.60	
+INF269	3	5516525	5381309	1	Y	356	99.97	99.59	425	Klebsiella pneumoniae	ST13	KL3	Typeable	Klebsiella pneumoniae	ST13	KL3	Typeable	YES	YES	YES	FAIL	Klebsiella pneumoniae	90.59	NON_KLEBSIELLA_CONTAMINATION: Escherichia 5.4%
+INF271	3	5466086	5315102	1	Y	154	99.98	99.59	459	Klebsiella pneumoniae	ST37	KL15	Typeable	Klebsiella pneumoniae	ST37	KL15	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.09	
+INF273	3	5502608	5266860	1	Y	130	99.10	98.69	1364	Klebsiella pneumoniae	ST500	KL34	Typeable	Klebsiella pneumoniae	ST500	KL34	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.15	
+INF275	2	5366336	5255798	1	Y	86	98.90	95.80	10326	Klebsiella pneumoniae	ST1464	KL109	Typeable	Klebsiella pneumoniae	ST1464	KL109	Untypeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.88	
+INF280	1	5165171	5165171	1	Y	122	99.77	99.61	1272	Klebsiella pneumoniae	ST3055	KL47	Typeable	Klebsiella pneumoniae	ST3055	KL47	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.78	
+INF282	4	5683782	5356185	1	Y	279	97.19	96.61	660	Klebsiella pneumoniae	ST29	KL30	Typeable	Klebsiella pneumoniae	ST29	KL30	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.93	
+INF283	4	5543667	5271423	1	Y	249	99.98	99.61	846	Klebsiella pneumoniae	ST111	KL63	Typeable	Klebsiella pneumoniae	ST111	KL63	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.39	
+INF284	2	5542105	5357994	1	Y	257	97.24	96.87	484	Klebsiella pneumoniae	ST3072	KL39	Typeable	Klebsiella pneumoniae	ST3072	KL39	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.41	
+INF286	2	5246678	5150784	1	Y	256	99.98	99.48	408	Klebsiella pneumoniae	ST3096	KL58	Typeable	Klebsiella pneumoniae	ST3096	KL58	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.42	
+INF287	3	5648206	5450290	1	Y	119	99.99	99.47	453	Klebsiella variicola subsp. variicola	ST3082	KL57	Typeable	Klebsiella variicola subsp. variicola	ST3082	KL57	Typeable	YES	YES	YES	PASS	Klebsiella variicola	94.01	
+INF288	3	6202766	5627548	1	Y	142	99.61	99.01	541	Klebsiella variicola subsp. variicola	ST3084	KL125	Typeable	Klebsiella variicola subsp. variicola	ST3084	KL125	Typeable	YES	YES	YES	PASS	Klebsiella variicola	91.99	
+INF289	3	5669760	5355038	1	Y	198	96.69	95.96	608	Klebsiella pneumoniae	ST29	KL30	Typeable	Klebsiella pneumoniae	ST29	KL30	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.05	
+INF292	3	5576656	5070570	1	Y	148	99.99	99.53	541	Klebsiella pneumoniae	ST661	KL28	Typeable	Klebsiella pneumoniae	ST661	KL28	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.30	
+INF293	9	5764869	5278149	1	Y	153	97.73	95.36	8680	Klebsiella pneumoniae	ST3040	KL38	Typeable	Klebsiella pneumoniae	ST3040	KL38	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	91.54	
+INF294	23	6001194	5242724	1	N	175	99.70	99.00	1969	Klebsiella pneumoniae	ST37-1LV	KL39	Typeable	Klebsiella pneumoniae	ST37	KL15	Typeable	YES	YES	NO	PASS	Klebsiella pneumoniae	98.42	
+INF295	3	5668997	5228972	1	Y	86	98.47	97.88	399	Klebsiella pneumoniae	ST323	KL21	Typeable	Klebsiella pneumoniae	ST323	KL21	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.35	
+INF297	4	5690513	5444130	1	Y	140	98.18	97.79	1035	Klebsiella pneumoniae	ST461	KL62	Typeable	Klebsiella pneumoniae	ST461	KL62	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.25	
+INF301	4	5457638	5208372	1	Y	220	98.60	98.07	1717	Klebsiella pneumoniae	ST27	KL61	Typeable	Klebsiella pneumoniae	ST27	KL61	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.07	
+INF303	2	5271785	5149709	1	Y	252	99.98	99.63	413	Klebsiella pneumoniae	ST3054	KL46	Typeable	Klebsiella pneumoniae	ST3054	KL46	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.80	
+INF306	1	5284298	5284298	1	Y	273	98.05	97.68	337	Klebsiella pneumoniae	ST3069	KL47	Typeable	Klebsiella pneumoniae	ST3069	KL47	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.81	
+INF307	3	5881513	5407443	1	Y	359	99.97	99.47	414	Klebsiella variicola subsp. variicola	ST1456	KL60	Typeable	Klebsiella variicola subsp. variicola	ST1456	KL60	Typeable	YES	YES	YES	PASS	Klebsiella variicola	97.68	
+INF308	1	5318269	5318269	1	Y	202	99.94	99.57	404	Klebsiella pneumoniae	ST1997	KL28	Typeable	Klebsiella pneumoniae	ST1997	KL28	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.59	
+INF309.1	3	5402087	5196341	1	Y	42	95.97	95.34	497	Klebsiella quasipneumoniae subsp. similipneumoniae	ST1548	KL170	Typeable	Klebsiella quasipneumoniae subsp. similipneumoniae	ST1548	KL170	Typeable	YES	YES	YES	PASS	Klebsiella quasipneumoniae	96.98	
+INF309.2	3	5494832	5195514	1	Y	58	98.29	97.76	496	Klebsiella quasipneumoniae subsp. similipneumoniae	ST1548	KL170	Typeable	Klebsiella quasipneumoniae subsp. similipneumoniae	ST1548	KL170	Typeable	YES	YES	YES	PASS	Klebsiella quasipneumoniae	96.42	
+INF311	4	5782584	5270016	1	Y	164	97.33	96.91	6128	Klebsiella pneumoniae	ST240	KL144	Untypeable	Klebsiella pneumoniae	ST240	KL144	Untypeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.47	
+INF312	2	5852449	5588045	1	Y	404	99.42	98.95	4473	Klebsiella variicola subsp. variicola	ST2989	KL55	Typeable	Klebsiella variicola subsp. variicola	ST2989	KL55	Typeable	YES	YES	YES	PASS	Klebsiella variicola	97.16	
+INF314	4	5668727	5358339	1	Y	118	98.72	98.03	621	Klebsiella pneumoniae	ST29	KL30	Typeable	Klebsiella pneumoniae	ST29	KL30	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.56	
+INF315.1	1	5321793	5321793	1	Y	111	99.96	99.59	469	Klebsiella pneumoniae	ST3057	KL30	Typeable	Klebsiella pneumoniae	ST3057	KL30	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.95	
+INF315.2	1	5321789	5321789	1	Y	126	99.96	99.59	470	Klebsiella pneumoniae	ST3057	KL30	Typeable	Klebsiella pneumoniae	ST3057	KL30	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.88	
+INF317	3	5496998	5473033	1	Y	253	99.98	99.76	540	Klebsiella pneumoniae	ST792	KL25	Typeable	Klebsiella pneumoniae	ST792	KL25	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.52	
+INF318	3	5471746	5196615	1	Y	234	95.50	95.05	479	Klebsiella quasipneumoniae subsp. similipneumoniae	ST1548	KL170	Typeable	Klebsiella quasipneumoniae subsp. similipneumoniae	ST1548	KL170	Typeable	YES	YES	YES	PASS	Klebsiella quasipneumoniae	96.25	
+INF320	2	5750070	5522143	1	Y	169	99.97	99.60	364	Klebsiella variicola subsp. variicola	ST1142	KL105	Typeable	Klebsiella variicola subsp. variicola	ST1142	KL105	Typeable	YES	YES	YES	PASS	Klebsiella variicola	98.05	
+INF324	1	5155796	5155796	1	Y	286	99.99	99.72	407	Klebsiella pneumoniae	ST3058	KL51	Typeable	Klebsiella pneumoniae	ST3058	KL51	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.41	
+INF325	3	5509760	5297508	1	Y	222	99.98	99.69	459	Klebsiella pneumoniae	ST3048	KL30	Typeable	Klebsiella pneumoniae	ST3048	KL30	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.20	
+INF326	2	5461783	5284186	1	Y	132	99.93	99.52	5655	Klebsiella pneumoniae	ST412	KL57	Typeable	Klebsiella pneumoniae	ST412	KL57	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	99.07	
+INF328	3	5588883	5227628	1	Y	335	98.77	98.37	439	Klebsiella pneumoniae	ST37	KL14	Typeable	Klebsiella pneumoniae	ST37	KL14	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.31	
+INF330	2	5702157	5530439	1	Y	101	99.98	99.59	331	Klebsiella variicola subsp. variicola	ST3089	KL142	Typeable	Klebsiella variicola subsp. variicola	ST3089	KL142	Typeable	YES	YES	YES	PASS	Klebsiella variicola	98.42	
+INF332_v2	1	5091060	5091060	1	N	108	99.65	99.22	1922	Klebsiella pneumoniae	ST200	KL13	Typeable	Klebsiella pneumoniae	ST200	KL13	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	92.33	
+INF336_v2	7	6107218	5415488	1	Y	58	99.17	98.67	2876	Klebsiella variicola subsp. variicola	ST3095	KL55	Typeable	Klebsiella variicola subsp. variicola	ST3095	KL55	Typeable	YES	YES	YES	PASS	Klebsiella variicola	82.19	
+INF337	5	5573775	5153576	1	Y	216	97.13	96.46	1438	Klebsiella pneumoniae	ST27	KL109	Typeable	Klebsiella pneumoniae	ST27	KL109	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.02	
+INF338	2	5599608	5313283	1	N	286	98.43	98.05	265	Klebsiella pneumoniae	ST34	KL38	Typeable	Klebsiella pneumoniae	ST34	KL38	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.35	
+INF339	4	5693849	5481288	1	Y	114	99.93	99.50	4832	Klebsiella pneumoniae	ST792	KL25	Typeable	Klebsiella pneumoniae	ST792	KL25	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.73	
+INF340	3	5589711	5277849	1	Y	246	93.58	93.27	541	Klebsiella pneumoniae	ST45	KL24	Typeable	Klebsiella pneumoniae	ST45	KL24	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.31	
+INF342	2	5678439	5491596	1	Y	277	99.03	98.99	306	Klebsiella pneumoniae	ST3099	KL155	Typeable	Klebsiella pneumoniae	ST3099	KL155	Untypeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.75	
+INF347	2	5805337	5414466	1	Y	319	99.42	99.07	637	Klebsiella pneumoniae	ST111	KL63	Typeable	Klebsiella pneumoniae	ST111	KL63	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.38	
+INF349	2	5732025	5560645	1	Y	474	99.94	99.45	728	Klebsiella variicola subsp. variicola	ST3085	KL55	Typeable	Klebsiella variicola subsp. variicola	ST3085	KL55	Typeable	YES	YES	YES	PASS	Klebsiella variicola	98.00	
+INF351	3	5629927	5284157	1	Y	228	99.90	99.24	839	Klebsiella pneumoniae	ST3051	KL20	Typeable	Klebsiella pneumoniae	ST3051	KL20	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.91	
+INF353	3	5521305	5243019	1	Y	184	99.15	98.81	625	Klebsiella pneumoniae	ST1109	KL54	Typeable	Klebsiella pneumoniae	ST1109	KL54	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.22	
+INF356	2	5403532	5070581	1	Y	59	99.75	99.43	435	Klebsiella pneumoniae	ST661	KL28	Typeable	Klebsiella pneumoniae	ST661	KL28	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.77	
+INF360	2	5369691	5232221	1	Y	36	95.70	95.25	562	Klebsiella pneumoniae	ST323-1LV	KL21	Typeable	Klebsiella pneumoniae	ST323	KL21	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	93.08	
+KSB1_1A	1	5378924	5378924	1	Y	181	99.95	99.80	1129	Klebsiella pneumoniae	ST35	KL22	Typeable	Klebsiella pneumoniae	ST35	KL22	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.20	
+KSB1_1C	4	5737094	5283847	1	Y	37	99.05	98.84	1714	Klebsiella pneumoniae	ST537	KL136	Typeable	Klebsiella pneumoniae	ST537	KL136	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	92.88	
+KSB1_1D	4	5680008	5301646	1	Y	23	98.56	98.23	544	Klebsiella pneumoniae	ST45-1LV	KL43	Typeable	Klebsiella pneumoniae	ST45	KL43	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.23	
+KSB1_1E_v2	6	5760028	5425636	1	Y	244	99.58	99.45	15418	Klebsiella pneumoniae	ST461	KL51	Typeable	Klebsiella pneumoniae	ST461	KL51	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.02	
+KSB1_1F	2	5402596	5177197	1	Y	211	99.93	99.68	398	Klebsiella pneumoniae	ST857	KL13	Typeable	Klebsiella pneumoniae	ST857	KL13	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.59	
+KSB1_1G	2	5173725	5167698	1	N	238	99.98	99.77	442	Klebsiella pneumoniae	ST37	KL15	Typeable	Klebsiella pneumoniae	ST37	KL15	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.57	
+KSB1_2A	1	5455853	5455853	1	Y	119	99.96	99.69	1898	Klebsiella variicola subsp. variicola	ST596	KL35	Typeable	Klebsiella variicola subsp. variicola	ST596	KL35	Typeable	YES	YES	YES	PASS	Klebsiella variicola	97.34	
+KSB1_2C	3	5726719	5504633	1	Y	148	99.95	99.84	11560	Klebsiella variicola subsp. variicola	ST3924	KL25	Typeable	Klebsiella variicola subsp. variicola	ST3924	KL25	Typeable	YES	YES	YES	PASS	Klebsiella variicola	96.93	
+KSB1_2D	1	5273822	5273822	1	Y	125	99.96	99.58	376	Klebsiella pneumoniae	ST128	KL6	Typeable	Klebsiella pneumoniae	ST128	KL6	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.62	
+KSB1_2E	4	5805260	5389511	1	Y	116	98.34	98.16	6761	Klebsiella pneumoniae	ST6935	KL56	Typeable	Klebsiella pneumoniae	ST6935	KL56	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.33	
+KSB1_2F	2	5526809	5521077	1	Y	139	99.84	99.47	274	Klebsiella variicola subsp. variicola	ST2594	KL134	Typeable	Klebsiella variicola subsp. variicola	ST2594	KL134	Typeable	YES	YES	YES	FAIL	Klebsiella variicola	96.93	MIXED_KLEBSIELLA: 2 species each ≥ 20.0% (Klebsiella variicola 53.6%, Klebsiella pneumoniae 22.1%)
+KSB1_2G	1	5471631	5471631	1	Y	297	98.97	98.81	764	Klebsiella variicola subsp. variicola	ST205	KL55	Typeable	Klebsiella variicola subsp. variicola	ST205	KL55	Typeable	YES	YES	YES	PASS	Klebsiella variicola	96.92	
+KSB1_2I	4	10504723	5511561	2	Y,Y	63,11	99.38	99.01	291	Klebsiella variicola subsp. variicola	ST2993	KL151	Typeable	Klebsiella variicola subsp. variicola	ST2993	KL151	Typeable	YES	YES	YES	FAIL	Klebsiella variicola	65.94	NON_KLEBSIELLA_CONTAMINATION: Escherichia 22.4%
+KSB1_2J	1	5469571	5469571	1	Y	83	99.98	99.83	408	Klebsiella variicola subsp. variicola	ST355	KL63	Typeable	Klebsiella variicola subsp. variicola	ST355	KL63	Typeable	YES	YES	YES	PASS	Klebsiella variicola	96.36	
+KSB1_3B	1	5488174	5488174	1	Y	37	99.94	99.64	383	Klebsiella variicola subsp. variicola	ST360	KL53	Typeable	Klebsiella variicola subsp. variicola	ST360	KL53	Typeable	YES	YES	YES	PASS	Klebsiella variicola	96.58	
+KSB1_3C	2	5691251	5509178	1	Y	112	99.88	99.79	9831	Klebsiella variicola subsp. variicola	ST3198	KL103	Untypeable	Klebsiella variicola subsp. variicola	ST3198	KL103	Untypeable	YES	YES	YES	PASS	Klebsiella variicola	96.99	
+KSB1_3D	10	5711650	5345360	1	Y	337	98.67	97.87	2607	Klebsiella pneumoniae	ST2136	KL102	Typeable	Klebsiella pneumoniae	ST2136	KL102	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	89.27	
+KSB1_3E	11	5808693	5252894	1	N	133	97.71	96.92	2975	Klebsiella pneumoniae	ST6936	KL22	Typeable	Klebsiella pneumoniae	ST6936	KL22	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	86.70	
+KSB1_3F	1	5584098	5584098	1	Y	134	99.92	99.73	328	Klebsiella variicola subsp. variicola	ST2089	KL19	Typeable	Klebsiella variicola subsp. variicola	ST2089	KL19	Typeable	YES	YES	YES	PASS	Klebsiella variicola	97.76	
+KSB1_3G	3	5491121	5336169	1	Y	119	97.62	97.38	659	Klebsiella pneumoniae	ST39	KL62	Typeable	Klebsiella pneumoniae	ST39	KL62	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.17	
+KSB1_3I	4	5580319	5194784	1	Y	66	97.67	97.12	546	Klebsiella quasipneumoniae subsp. similipneumoniae	ST1548	KL170	Typeable	Klebsiella quasipneumoniae subsp. similipneumoniae	ST1548	KL170	Typeable	YES	YES	YES	FAIL	Klebsiella quasipneumoniae	94.15	MIXED_KLEBSIELLA: 2 species each ≥ 20.0% (Klebsiella quasipneumoniae 53.6%, Klebsiella pneumoniae 25.8%)
+KSB1_3J	2	5520306	5312872	1	Y	60	99.84	99.57	424	Klebsiella pneumoniae	ST152	KL149	Typeable	Klebsiella pneumoniae	ST152	KL149	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.73	
+KSB1_4A	1	5240101	5240101	1	Y	83	99.97	99.63	370	Klebsiella pneumoniae	ST5142	KL27	Typeable	Klebsiella pneumoniae	ST5142	KL27	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.20	
+KSB1_4B	2	5632222	5377402	1	Y	52	95.49	95.14	663	Klebsiella pneumoniae	ST2116	KL28	Typeable	Klebsiella pneumoniae	ST2116	KL28	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	93.38	
+KSB1_4C	3	5479330	5278690	1	Y	63	99.81	99.57	1026	Klebsiella pneumoniae	ST1322	KL139	Typeable	Klebsiella pneumoniae	ST1322	KL139	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.73	
+KSB1_4D	3	5541498	5292264	1	Y	261	98.57	98.03	2252	Klebsiella pneumoniae	ST6934	KL46	Typeable	Klebsiella pneumoniae	ST6934	KL46	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	93.08	
+KSB1_4G	1	5289803	5289803	1	Y	103	99.97	99.84	743	Klebsiella quasipneumoniae subsp. quasipneumoniae	ST6938	KL6	Typeable	Klebsiella quasipneumoniae subsp. quasipneumoniae	ST6938	KL6	Typeable	YES	YES	YES	PASS	Klebsiella quasipneumoniae	95.60	
+KSB1_4H	3	5782090	5514680	1	Y	50	99.98	99.76	427	Klebsiella variicola subsp. variicola	ST4595	KL6	Typeable	Klebsiella variicola subsp. variicola	ST4595	KL6	Typeable	YES	YES	YES	PASS	Klebsiella variicola	93.31	
+KSB1_4J	2	5648166	5538179	1	Y	108	96.52	96.18	358	Klebsiella variicola subsp. variicola	ST208	KL9	Typeable	Klebsiella variicola subsp. variicola	ST208	KL9	Typeable	YES	YES	YES	PASS	Klebsiella variicola	90.07	
+KSB1_5A	3	5595379	5248557	1	Y	95	99.40	98.94	508	Klebsiella pneumoniae	ST2990	KL8	Typeable	Klebsiella pneumoniae	ST2990	KL8	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.28	
+KSB1_5C	7	5543042	5050285	1	N	135	94.98	93.87	1919	Klebsiella pneumoniae	ST3169	KL31	Typeable	Klebsiella pneumoniae	ST3169	KL31	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.56	
+KSB1_5E	5	5747195	5421731	1	Y	212	97.38	96.75	1986	Klebsiella pneumoniae	ST461	KL51	Typeable	Klebsiella pneumoniae	ST461	KL51	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	90.80	
+KSB1_5F	1	5201585	5201585	1	Y	138	99.96	99.69	480	Klebsiella pneumoniae	ST6937	KL36	Typeable	Klebsiella pneumoniae	ST6937	KL36	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.49	
+KSB1_6B	4	6151387	5569847	1	Y	128	96.18	93.92	9654	Klebsiella variicola subsp. variicola	ST1599	KL60	Typeable	Klebsiella variicola subsp. variicola	ST1599	KL60	Typeable	YES	YES	YES	PASS	Klebsiella variicola	94.62	
+KSB1_6C	4	5690674	5265678	1	Y	272	98.84	98.48	920	Klebsiella pneumoniae	ST20	KL28	Typeable	Klebsiella pneumoniae	ST20	KL28	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	93.05	
+KSB1_6D_v2	2	5444361	5223207	1	N	89	99.50	99.13	786	Klebsiella quasipneumoniae subsp. similipneumoniae	ST414	KL123	Typeable	Klebsiella quasipneumoniae subsp. similipneumoniae	ST414	KL123	Typeable	YES	YES	YES	FAIL	Klebsiella quasipneumoniae	93.89	MIXED_KLEBSIELLA: 2 species each ≥ 20.0% (Klebsiella quasipneumoniae 27.9%, Klebsiella pneumoniae 20.8%)
+KSB1_6E	2	5593205	5390455	1	Y	160	99.91	99.70	688	Klebsiella pneumoniae	ST4553	KL14	Typeable	Klebsiella pneumoniae	ST4553	KL14	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.62	
+KSB1_6I.1	4	5868448	5422762	1	Y	115	99.11	98.59	632	Klebsiella pneumoniae	ST252	KL81	Typeable	Klebsiella pneumoniae	ST252	KL81	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.40	
+KSB1_6I.2	3	5851345	5417227	1	Y	86	96.72	96.39	507	Klebsiella pneumoniae	ST252	KL81	Typeable	Klebsiella pneumoniae	ST252	KL81	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.32	
+KSB1_7B.1	1	5213139	5213139	1	Y	205	99.93	97.16	6653	Klebsiella pneumoniae	ST5168	KL21	Typeable	Klebsiella pneumoniae	ST5168	KL21	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.16	
+KSB1_7B.2	3	5050538	4791233	1	Y	216	13.81	9.60	410	Escherichia coli / Shigella	NON_KPSC	NON_KPSC	NON_KPSC	Klebsiella pneumoniae	ST5168	KL21	Typeable	NO	NO	NO	FAIL	Klebsiella pneumoniae	3.95	NON_KLEBSIELLA_CONTAMINATION: Escherichia 76.4% | LOW_KLEBSIELLA: only 4.0% of reads classified as Klebsiella (threshold: 50.0%)
+KSB1_7C	3	5512517	5293888	1	Y	227	99.97	99.70	590	Klebsiella pneumoniae	ST15	KL24	Typeable	Klebsiella pneumoniae	ST15	KL24	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.63	
+KSB1_7D	4	5821040	5514554	1	Y	102	97.74	96.97	812	Klebsiella pneumoniae	ST461	KL117	Typeable	Klebsiella pneumoniae	ST461	KL117	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	92.48	
+KSB1_7H	1	5230305	5230305	1	Y	64	99.97	99.63	381	Klebsiella pneumoniae	ST111	KL63	Typeable	Klebsiella pneumoniae	ST111	KL63	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.96	
+KSB1_8A	2	5455360	5312140	1	Y	373	99.97	99.61	427	Klebsiella pneumoniae	ST2991	KL119	Typeable	Klebsiella pneumoniae	ST2991	KL119	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.73	
+KSB1_8B	3	5778867	5435262	1	Y	79	97.20	96.72	607	Klebsiella variicola subsp. variicola	ST2388	KL135	Typeable	Klebsiella variicola subsp. variicola	ST2388	KL135	Typeable	YES	YES	YES	PASS	Klebsiella variicola	92.71	
+KSB1_8E.1	1	5447832	5447832	1	Y	31	99.22	98.96	354	Klebsiella variicola subsp. variicola	ST2994	KL35	Typeable	Klebsiella variicola subsp. variicola	ST2994	KL35	Typeable	YES	YES	YES	PASS	Klebsiella variicola	97.74	
+KSB1_8E.2	2	5316289	5172158	1	Y	47	12.60	8.49	499	Escherichia coli / Shigella	NON_KPSC	NON_KPSC	NON_KPSC	Klebsiella variicola subsp. variicola	ST2994	KL35	Typeable	NO	NO	NO	FAIL	Klebsiella variicola	7.41	NON_KLEBSIELLA_CONTAMINATION: Escherichia 86.9% | LOW_KLEBSIELLA: only 7.4% of reads classified as Klebsiella (threshold: 50.0%)
+KSB1_8F	4	6002208	5521140	1	Y	124	99.84	99.50	603	Klebsiella variicola subsp. variicola	ST2992	KL101	Typeable	Klebsiella variicola subsp. variicola	ST2992	KL101	Typeable	YES	YES	YES	PASS	Klebsiella variicola	93.16	
+KSB1_8I	4	5523080	5346272	1	Y	143	99.50	99.17	720	Klebsiella pneumoniae	ST127	KL30	Typeable	Klebsiella pneumoniae	ST127	KL30	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.36	
+KSB1_9B	2	5634355	5464118	1	Y	150	99.88	99.83	435	Klebsiella variicola subsp. variicola	ST2996	KL20	Typeable	Klebsiella variicola subsp. variicola	ST2996	KL20	Typeable	YES	YES	YES	PASS	Klebsiella variicola	94.30	
+KSB1_9E	6	5376990	5065012	1	Y	244	97.56	97.14	2507	Klebsiella pneumoniae	ST359	KL10	Typeable	Klebsiella pneumoniae	ST359	KL10	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.06	
+KSB1_10A_v2	1	5295847	5295847	1	Y	113	99.77	99.46	1140	Klebsiella quasipneumoniae subsp. quasipneumoniae	ST5062	KL6	Typeable	Klebsiella quasipneumoniae subsp. quasipneumoniae	ST5062	KL6	Typeable	YES	YES	YES	PASS	Klebsiella quasipneumoniae	93.51	
+KSB1_10C	2	5487720	5342505	1	Y	223	99.98	99.69	1072	Klebsiella pneumoniae	ST1966	KL58	Typeable	Klebsiella pneumoniae	ST1966	KL58	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.62	
+KSB1_10D	2	5454226	5269910	1	Y	229	95.26	94.98	8514	Klebsiella pneumoniae	ST1728	KL116	Typeable	Klebsiella pneumoniae	ST1728	KL116	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.65	
+KSB1_10F	2	5651181	5500566	1	Y	309	99.97	99.70	364	Klebsiella variicola subsp. variicola	ST1986	KL137	Typeable	Klebsiella variicola subsp. variicola	ST1986	KL137	Typeable	YES	YES	YES	PASS	Klebsiella variicola	95.38	
+KSB1_10G	5	5401311	5031175	1	Y	144	98.52	97.79	840	Klebsiella pneumoniae	ST1800	KL30	Typeable	Klebsiella pneumoniae	ST1800	KL30	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.95	
+KSB1_10H	3	5399395	5299494	1	Y	138	99.42	99.08	421	Klebsiella pneumoniae	ST345	KL15	Typeable	Klebsiella pneumoniae	ST345	KL15	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.29	
+KSB2_1D	1	5416778	5416778	1	Y	205	99.53	99.28	227	Klebsiella variicola subsp. variicola	ST2995	KL134	Typeable	Klebsiella variicola subsp. variicola	ST2995	KL134	Typeable	YES	YES	YES	PASS	Klebsiella variicola	97.51	
+KSB2_3B	2	5431129	5267834	1	Y	157	99.97	99.67	485	Klebsiella pneumoniae	ST215	KL16	Typeable	Klebsiella pneumoniae	ST215	KL16	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.17	
+KSB2_3C	1	5368211	5368211	1	Y	551	99.95	99.67	172	Klebsiella pneumoniae	ST310	KL1	Typeable	Klebsiella pneumoniae	ST310	KL1	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.97	
+KSB2_4A	8	10768378	5141356	2	Y,Y	84,191	98.26	97.71	351	Klebsiella quasipneumoniae subsp. similipneumoniae	ST1191	KL13	Typeable	Klebsiella quasipneumoniae subsp. similipneumoniae	ST1191	KL13	Typeable	YES	YES	YES	FAIL	Klebsiella quasipneumoniae	29.54	NON_KLEBSIELLA_CONTAMINATION: Escherichia 58.9% | LOW_KLEBSIELLA: only 29.5% of reads classified as Klebsiella (threshold: 50.0%)
+KSB2_4B	2	5237168	5178696	1	Y	117	99.54	99.30	958	Klebsiella pneumoniae	ST1731	KL43	Typeable	Klebsiella pneumoniae	ST1731	KL43	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.25	
+KSB2_4D	1	5436258	5436258	1	Y	97	99.20	98.97	194	Klebsiella pneumoniae	ST35	KL22	Typeable	Klebsiella pneumoniae	ST35	KL22	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.02	
+KSB2_5D_v2	103	10397488	1714328	0	N/A	N/A	99.18	98.77	4044	Klebsiella pneumoniae	ST35	KL53	Typeable	Klebsiella pneumoniae	ST35-2LV	KL53	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.29	
+KSB2_6A	11	6488575	5149882	1	N	53	95.88	95.26	641	Klebsiella variicola subsp. variicola	ST641	KL60	Typeable	Klebsiella variicola subsp. variicola	ST641	KL60	Typeable	YES	YES	YES	PASS	Klebsiella variicola	94.36	
+KSB2_6B.1	4	5467936	5133195	1	N	103	99.98	99.79	671	Klebsiella pneumoniae	ST215	KL16	Typeable	Klebsiella pneumoniae	ST215	KL16	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.43	
+KSB2_6B.2	3	4819632	4757536	1	Y	133	11.69	7.68	457	Escherichia coli / Shigella	NON_KPSC	NON_KPSC	NON_KPSC	Klebsiella pneumoniae	ST215	KL16	Typeable	NO	NO	NO	FAIL	Klebsiella pneumoniae	6.67	NON_KLEBSIELLA_CONTAMINATION: Escherichia 81.0% | LOW_KLEBSIELLA: only 6.7% of reads classified as Klebsiella (threshold: 50.0%)
+KSB2_6D	1	5227712	5227712	1	Y	168	99.62	99.43	480	Klebsiella pneumoniae	ST111	KL63	Typeable	Klebsiella pneumoniae	ST111	KL63	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	96.62	
+KSB2_7A	1	5274358	5274358	1	Y	46	99.98	99.42	296	Klebsiella pneumoniae	ST3692	KL8	Typeable	Klebsiella pneumoniae	ST3692	KL8	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	98.61	
+KSB2_7B	2	5431133	5267838	1	Y	268	99.92	99.63	324	Klebsiella pneumoniae	ST215	KL16	Typeable	Klebsiella pneumoniae	ST215	KL16	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	97.44	
+KSB2_7C	2	5515713	5509730	1	Y	203	99.70	99.44	229	Klebsiella variicola subsp. variicola	ST3573	KL121	Typeable	Klebsiella variicola subsp. variicola	ST3573	KL121	Typeable	YES	YES	YES	PASS	Klebsiella variicola	92.89	
+KSB2_8A	3	5516225	5184105	1	Y	174	99.06	98.84	335	Klebsiella pneumoniae	ST463	KL117	Typeable	Klebsiella pneumoniae	ST463	KL117	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	94.40	
+KSB2_8C	1	5203622	5203622	1	Y	86	99.37	99.16	366	Klebsiella pneumoniae	ST2267	KL127	Typeable	Klebsiella pneumoniae	ST2267	KL127	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.46	
+KSB2_8D	7	5662121	5217587	1	Y	76	99.96	99.66	770	Klebsiella pneumoniae	ST643	KL38	Typeable	Klebsiella pneumoniae	ST643	KL38	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	88.08	
+KSB2_9B	5	5609366	5276824	1	Y	67	99.91	98.34	9988	Klebsiella pneumoniae	ST25	KL2	Typeable	Klebsiella pneumoniae	ST25	KL2	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	93.79	
+KSB2_9C	2	5318223	5184781	1	Y	82	99.58	99.36	360	Klebsiella pneumoniae	ST788	KL8	Typeable	Klebsiella pneumoniae	ST788	KL8	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.93	
+KSB2_10C.1	3	5484763	5260662	1	Y	68	99.51	99.27	356	Klebsiella pneumoniae	ST661	KL24	Typeable	Klebsiella pneumoniae	ST661	KL24	Typeable	YES	YES	YES	PASS	Klebsiella pneumoniae	95.82	
+KSB2_10C.2	3	5033183	4865102	1	Y	153	11.79	7.72	617	Escherichia coli / Shigella	NON_KPSC	NON_KPSC	NON_KPSC	Klebsiella pneumoniae	ST661	KL24	Typeable	NO	NO	NO	FAIL	Klebsiella pneumoniae	0.66	NON_KLEBSIELLA_CONTAMINATION: Escherichia 85.7% | LOW_KLEBSIELLA: only 0.7% of reads classified as Klebsiella (threshold: 50.0%)

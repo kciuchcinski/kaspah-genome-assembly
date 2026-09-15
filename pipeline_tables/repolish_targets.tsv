@@ -1,0 +1,13 @@
+
+# sample	source_assembly
+# The ONT assemblies behind the 7 hybrids that failed 08_final_assembly QC. Each passed
+# 07_external_qc and each holds exactly one chromosome of 5.15-5.37 Mb, so the assembly is
+# sound and only the polished version is missing. Reassembling with Flye is what went
+# wrong; these are polished as-is.
+INF071.1	03_assembly/assemblies/INF071.1/ont_flye/assembly.fasta
+INF074	03_assembly/assemblies/INF074/ont_flye/assembly.fasta
+INF205	06_asm_fixing/01_autocycler/assemblies/INF205.fasta
+INF289	03_assembly/assemblies/INF289/ont_flye/assembly.fasta
+KSB1_6D_v2	03_assembly/assemblies/KSB1_6D_v2/ont_flye/assembly.fasta
+KSB2_3C	03_assembly/assemblies/KSB2_3C/ont_flye/assembly.fasta
+KSB2_6A	03_assembly/assemblies/KSB2_6A/ont_flye/assembly.fasta

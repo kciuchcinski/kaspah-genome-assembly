@@ -1,0 +1,304 @@
+sample	isolate	internal_qc_decision	external_qc_decision	mismatch_reason	kbt_ont_species	kbt_ont_ST	kbt_ont_K_locus	kbt_ont_K_locus_confidence	ext_species	ext_ST	ext_K_locus	ext_K_locus_confidence	int_species_match	int_K_locus_match	int_mlst_distance	ext_species_match	ext_K_locus_match	ext_mlst_distance	internally_concordant	matches_reference	variant_kept	best_external_match
+INF001.1	INF001	PASS	PASS		Klebsiella variicola subsp. variicola	ST3090-1LV	KL3	Typeable	Klebsiella variicola subsp. variicola	ST3090	KL3	Very high	True	True	0	True	True	0	True	True	True	
+INF002	INF002	PASS	PASS		Klebsiella pneumoniae	ST133	KL116	Typeable	Klebsiella pneumoniae	ST133	KL116	High	True	True	0	True	True	0	True	True	True	
+INF003	INF003	PASS	PASS		Klebsiella pneumoniae	ST323	KL21	Typeable	Klebsiella pneumoniae	ST323	KL21	Good	True	True	0	True	True	0	True	True	True	
+INF004	INF004	PASS	PASS		Klebsiella pneumoniae	ST345	KL15	Typeable	Klebsiella pneumoniae	ST345	KL15	Very high	True	True	0	True	True	0	True	True	True	
+INF005	INF005	PASS	PASS		Klebsiella variicola subsp. variicola	ST641	KL60	Typeable	Klebsiella variicola subsp. variicola	ST641	KL60	Very high	True	True	0	True	True	0	True	True	True	
+INF006	INF006	PASS	PASS		Klebsiella pneumoniae	ST35	KL22	Typeable	Klebsiella pneumoniae	ST35	KL22	Very high	True	True	0	True	True	0	True	True	True	
+INF007	INF007	PASS	PASS		Klebsiella pneumoniae	ST1449-1LV	KL107	Typeable	Klebsiella pneumoniae	ST1449	KL107	Very high	True	True	0	True	True	0	True	True	True	
+INF008	INF008	PASS	PASS		Klebsiella pneumoniae	ST221	KL39	Typeable	Klebsiella pneumoniae	ST221	KL39	Perfect	True	True	0	True	True	0	True	True	True	
+INF011	INF011	PASS	PASS		Klebsiella pneumoniae	ST1393	KL8	Typeable	Klebsiella pneumoniae	ST1393	KL8	Very high	True	True	0	True	True	0	True	True	True	
+INF012	INF012	PASS	PASS		Klebsiella pneumoniae	ST690	KL30	Typeable	Klebsiella pneumoniae	ST690	KL30	Very high	True	True	0	True	True	0	True	True	True	
+INF013	INF013	PASS	PASS		Klebsiella pneumoniae	ST1583	KL102	Typeable	Klebsiella pneumoniae	ST1583	KL102	Very high	True	True	0	True	True	0	True	True	True	
+INF014	INF014	PASS	PASS		Klebsiella pneumoniae	ST25	KL2	Typeable	Klebsiella pneumoniae	ST25	KL2	Very high	True	True	0	True	True	0	True	True	True	
+INF016	INF016	PASS	PASS		Klebsiella pneumoniae	ST27	KL109	Typeable	Klebsiella pneumoniae	ST27	KL109	Good	True	True	0	True	True	0	True	True	True	
+INF017	INF017	PASS	PASS		Klebsiella pneumoniae	ST35	KL22	Typeable	Klebsiella pneumoniae	ST35	KL22	Very high	True	True	0	True	True	0	True	True	True	
+INF019	INF019	PASS	PASS		Klebsiella pneumoniae	ST20	KL28	Typeable	Klebsiella pneumoniae	ST20	KL28	Very high	True	True	0	True	True	0	True	True	True	
+INF020	INF020	PASS	PASS		Klebsiella pneumoniae	ST20	KL28	Typeable	Klebsiella pneumoniae	ST20	KL28	Very high	True	True	0	True	True	0	True	True	True	
+INF023	INF023	PASS	PASS		Klebsiella pneumoniae	ST2997	KL158	Typeable	Klebsiella pneumoniae	ST2997	KL158	Good	True	True	0	True	True	0	True	True	True	
+INF024	INF024	PASS	PASS		Klebsiella pneumoniae	ST1138	KL71	Typeable	Klebsiella pneumoniae	ST1138	KL71	Good	True	True	0	True	True	0	True	True	True	
+INF025	INF025	PASS	PASS		Klebsiella pneumoniae	ST491	KL118	Typeable	Klebsiella pneumoniae	ST491	KL118	Good	True	True	0	True	True	0	True	True	True	
+INF027	INF027	PASS	PASS		Klebsiella pneumoniae	ST215	KL16	Typeable	Klebsiella pneumoniae	ST215	KL16	Very high	True	True	0	True	True	0	True	True	True	
+INF028	INF028	PASS	PASS		Klebsiella pneumoniae	ST45	KL24	Typeable	Klebsiella pneumoniae	ST45	KL24	Very high	True	True	0	True	True	0	True	True	True	
+INF030	INF030	PASS	PASS		Klebsiella pneumoniae	ST3038	KL24	Typeable	Klebsiella pneumoniae	ST3038	KL24	High	True	True	0	True	True	0	True	True	True	
+INF033	INF033	PASS	PASS_REFERENCE_MISMATCH	K locus ambiguous on fragmented reference assembly	Klebsiella pneumoniae	ST27	KL22	Typeable	Klebsiella pneumoniae	ST27	KL37	Good	True	True	0	True	False	0	True	False	True	
+INF034_v2	INF034	PASS	PASS_REFERENCE_MISMATCH	reference row describes a different strain	Klebsiella pneumoniae	ST15-1LV	KL24	Typeable	Klebsiella quasipneumoniae subsp. similipneumoniae	ST3097-1LV	KL7	Very high	True	True	0	False	False	7	True	False	True	KSB1_7C,INF061,KSB1_5B
+INF035_v2	INF035	PASS	PASS		Klebsiella quasipneumoniae subsp. similipneumoniae	ST5872	KL7	Typeable	Klebsiella quasipneumoniae subsp. similipneumoniae	ST3097-1LV	KL7	Very high	True	True	0	True	True	0	True	True	True	
+INF036	INF036	PASS	PASS		Klebsiella variicola subsp. variicola	ST360	KL53	Typeable	Klebsiella variicola subsp. variicola	ST360	KL53	Very high	True	True	0	True	True	0	True	True	True	
+INF038	INF038	PASS	PASS		Klebsiella pneumoniae	ST60	KL5	Typeable	Klebsiella pneumoniae	ST60	KL5	Very high	True	True	0	True	True	0	True	True	True	
+INF039	INF039	PASS	PASS		Klebsiella pneumoniae	ST2931	KL22	Typeable	Klebsiella pneumoniae	ST2931	KL22	Very high	True	True	0	True	True	0	True	True	True	
+INF040	INF040	PASS	PASS		Klebsiella pneumoniae	ST20	KL28	Typeable	Klebsiella pneumoniae	ST20	KL28	Very high	True	True	0	True	True	0	True	True	True	
+INF041	INF041	PASS	PASS		Klebsiella pneumoniae	ST1263	KL10	Typeable	Klebsiella pneumoniae	ST1263	KL10	Good	True	True	0	True	True	0	True	True	True	
+INF045	INF045	PASS	PASS		Klebsiella pneumoniae	ST1547	KL2	Typeable	Klebsiella pneumoniae	ST1547	KL2	Very high	True	True	0	True	True	0	True	True	True	
+INF046	INF046	PASS	PASS		Klebsiella pneumoniae	ST182	KL47	Typeable	Klebsiella pneumoniae	ST182	KL47	Good	True	True	0	True	True	0	True	True	True	
+INF047	INF047	PASS	PASS		Klebsiella variicola subsp. variicola	ST3077	KL120	Typeable	Klebsiella variicola subsp. variicola	ST3077	KL120	Perfect	True	True	0	True	True	0	True	True	True	
+INF048	INF048	PASS	PASS		Klebsiella variicola subsp. variicola	ST616	KL54	Typeable	Klebsiella variicola subsp. variicola	ST616	KL54	Good	True	True	0	True	True	0	True	True	True	
+INF050	INF050	PASS_BORDERLINE_MAPPING	PASS		Klebsiella pneumoniae	ST323	KL21	Typeable	Klebsiella pneumoniae	ST323	KL21	Very high	True	True	0	True	True	0	True	True	True	
+INF051	INF051	PASS	PASS		Klebsiella pneumoniae	ST882	KL16	Typeable	Klebsiella pneumoniae	ST882	KL16	Very high	True	True	0	True	True	0	True	True	True	
+INF052	INF052	PASS	PASS		Klebsiella pneumoniae	ST3071	KL35	Typeable	Klebsiella pneumoniae	ST3071	KL35	Good	True	True	0	True	True	0	True	True	True	
+INF053	INF053	PASS	PASS		Klebsiella pneumoniae	ST113	KL114	Typeable	Klebsiella pneumoniae	ST113	KL114	Good	True	True	0	True	True	0	True	True	True	
+INF054	INF054	PASS	PASS		Klebsiella pneumoniae	ST1322	KL139	Typeable	Klebsiella pneumoniae	ST1322	KL139	Perfect	True	True	0	True	True	0	True	True	True	
+INF055	INF055	PASS	PASS		Klebsiella pneumoniae	ST268	KL20	Typeable	Klebsiella pneumoniae	ST268	KL20	Very high	True	True	0	True	True	0	True	True	True	
+INF056	INF056	PASS	PASS		Klebsiella pneumoniae	ST3042	KL18	Typeable	Klebsiella pneumoniae	ST3042	KL18	Perfect	True	True	0	True	True	0	True	True	True	
+INF057	INF057	PASS	PASS		Klebsiella pneumoniae	ST27	KL142	Typeable	Klebsiella pneumoniae	ST27	KL142	Good	True	True	0	True	True	0	True	True	True	
+INF060	INF060	PASS	PASS		Klebsiella pneumoniae	ST603	KL22	Typeable	Klebsiella pneumoniae	ST603	KL22	Very high	True	True	0	True	True	0	True	True	True	
+INF062	INF062	PASS	PASS		Klebsiella pneumoniae	ST230	KL167	Typeable	Klebsiella pneumoniae	ST230	KL167	Very high	True	True	0	True	True	0	True	True	True	
+INF063	INF063	PASS	PASS		Klebsiella pneumoniae	ST110	KL108	Typeable	Klebsiella pneumoniae	ST110	KL108	Very high	True	True	0	True	True	0	True	True	True	
+INF066	INF066	PASS	PASS		Klebsiella pneumoniae	ST3070	KL166	Typeable	Klebsiella pneumoniae	ST3070	KL166	Very high	True	True	0	True	True	0	True	True	True	
+INF067	INF067	PASS	PASS		Klebsiella pneumoniae	ST45	KL24	Typeable	Klebsiella pneumoniae	ST45	KL24	High	True	True	0	True	True	0	True	True	True	
+INF068	INF068	PASS	PASS		Klebsiella pneumoniae	ST584	KL60	Typeable	Klebsiella pneumoniae	ST584	KL60	Very high	True	True	0	True	True	0	True	True	True	
+INF070	INF070	PASS	PASS		Klebsiella pneumoniae	ST323	KL21	Typeable	Klebsiella pneumoniae	ST323	KL21	Very high	True	True	0	True	True	0	True	True	True	
+INF071.1	INF071	PASS	PASS		Klebsiella pneumoniae	ST607	KL48	Typeable	Klebsiella pneumoniae	ST607	KL48	High	True	True	0	True	True	0	True	True	True	
+INF072	INF072	PASS	PASS		Klebsiella pneumoniae	ST133-1LV	KL116	Typeable	Klebsiella pneumoniae	ST133	KL116	High	True	True	0	True	True	0	True	True	True	
+INF074	INF074	PASS	PASS		Klebsiella pneumoniae	ST111	KL63	Typeable	Klebsiella pneumoniae	ST111	KL63	Very high	True	True	0	True	True	0	True	True	True	
+INF077_v2	INF077	PASS	PASS		Klebsiella pneumoniae	ST37	KL14	Typeable	Klebsiella pneumoniae	ST37	KL14	Good	True	True	0	True	True	0	True	True	True	
+INF080	INF080	PASS	PASS		Klebsiella pneumoniae	ST1694	KL63	Typeable	Klebsiella pneumoniae	ST1694	KL63	Very high	True	True	0	True	True	0	True	True	True	
+INF081	INF081	PASS	PASS		Klebsiella variicola subsp. variicola	ST3080	KL105	Typeable	Klebsiella variicola subsp. variicola	ST3080	KL105	Very high	True	True	0	True	True	0	True	True	True	
+INF082	INF082	PASS	PASS		Klebsiella pneumoniae	ST3041	KL30	Typeable	Klebsiella pneumoniae	ST3041	KL30	Good	True	True	0	True	True	0	True	True	True	
+INF083	INF083	PASS	PASS		Klebsiella pneumoniae	ST3046	KL22	Typeable	Klebsiella pneumoniae	ST3046	KL22	Very high	True	True	0	True	True	0	True	True	True	
+INF084_v2	INF084	PASS	PASS		Klebsiella pneumoniae	ST661	KL47	Typeable	Klebsiella pneumoniae	ST661	KL47	Good	True	True	0	True	True	0	True	True	True	
+INF087	INF087	PASS	PASS		Klebsiella pneumoniae	ST3050	KL36	Typeable	Klebsiella pneumoniae	ST3050	KL36	Perfect	True	True	0	True	True	0	True	True	True	
+INF088	INF088	PASS	PASS		Klebsiella pneumoniae	ST111	KL113	Typeable	Klebsiella pneumoniae	ST111	KL113	Good	True	True	0	True	True	0	True	True	True	
+INF089	INF089	PASS	PASS		Klebsiella quasipneumoniae subsp. quasipneumoniae	ST3091	KL11	Typeable	Klebsiella quasipneumoniae subsp. quasipneumoniae	ST3091	KL11	Perfect	True	True	0	True	True	0	True	True	True	
+INF090	INF090	PASS	PASS		Klebsiella pneumoniae	ST185	KL130	Typeable	Klebsiella pneumoniae	ST185	KL130	Perfect	True	True	0	True	True	0	True	True	True	
+INF091.1	INF091	PASS	DROP_VARIANT		Klebsiella pneumoniae	ST45	KL24	Typeable	Klebsiella pneumoniae	ST45	KL24	Very high	True	True	0	True	True	0	True	True	False	
+INF091.2	INF091	PASS	PASS		Klebsiella pneumoniae	ST45	KL24	Typeable	Klebsiella pneumoniae	ST45	KL24	Very high	True	True	0	True	True	0	True	True	True	
+INF092.1	INF092	PASS	PASS		Klebsiella pneumoniae	ST2415	KL131	Typeable	Klebsiella pneumoniae	ST2415	KL131	Very high	True	True	0	True	True	0	True	True	True	
+INF093.1	INF093	PASS	PASS		Klebsiella pneumoniae	ST323	KL21	Typeable	Klebsiella pneumoniae	ST323	KL21	Very high	True	True	0	True	True	0	True	True	True	
+INF097	INF097	PASS	PASS		Klebsiella pneumoniae	ST1307	KL127	Typeable	Klebsiella pneumoniae	ST1307	KL127	Very high	True	True	0	True	True	0	True	True	True	
+INF098	INF098	PASS	PASS		Klebsiella pneumoniae	ST611	KL71	Typeable	Klebsiella pneumoniae	ST611	KL71	High	True	True	0	True	True	0	True	True	True	
+INF099	INF099	PASS	PASS		Klebsiella pneumoniae	ST1583	KL102	Typeable	Klebsiella pneumoniae	ST1583	KL102	Very high	True	True	0	True	True	0	True	True	True	
+INF100	INF100	PASS	PASS		Klebsiella pneumoniae	ST22	KL9	Typeable	Klebsiella pneumoniae	ST22	KL9	Very high	True	True	0	True	True	0	True	True	True	
+INF101	INF101	PASS	PASS		Klebsiella pneumoniae	ST133	KL116	Typeable	Klebsiella pneumoniae	ST133	KL116	High	True	True	0	True	True	0	True	True	True	
+INF103	INF103	PASS	PASS		Klebsiella variicola subsp. variicola	ST3087	KL46	Typeable	Klebsiella variicola subsp. variicola	ST3087	KL46		True	True	0	True	True	0	True	True	True	
+INF104.1	INF104	PASS	DROP_VARIANT		Klebsiella pneumoniae	ST45	KL24	Typeable	Klebsiella pneumoniae	ST45	KL24	Very high	True	True	0	True	True	0	True	True	False	
+INF104.2	INF104	PASS	PASS		Klebsiella pneumoniae	ST45	KL24	Typeable	Klebsiella pneumoniae	ST45	KL24	Very high	True	True	0	True	True	0	True	True	True	
+INF106	INF106	PASS	PASS		Klebsiella pneumoniae	ST690	KL30	Typeable	Klebsiella pneumoniae	ST690	KL30	High	True	True	0	True	True	0	True	True	True	
+INF107	INF107	PASS	PASS		Klebsiella pneumoniae	ST3064	KL54	Typeable	Klebsiella pneumoniae	ST3064	KL54	Perfect	True	True	0	True	True	0	True	True	True	
+INF108	INF108	PASS	PASS		Klebsiella pneumoniae	ST247	KL10	Typeable	Klebsiella pneumoniae	ST247	KL10	Very high	True	True	0	True	True	0	True	True	True	
+INF109	INF109	PASS	PASS		Klebsiella pneumoniae	ST229	KL63	Typeable	Klebsiella pneumoniae	ST229	KL63	Very high	True	True	0	True	True	0	True	True	True	
+INF110	INF110	PASS	PASS		Klebsiella pneumoniae	ST520	KL2	Typeable	Klebsiella pneumoniae	ST520	KL2	Very high	True	True	0	True	True	0	True	True	True	
+INF112	INF112	PASS	PASS		Klebsiella variicola subsp. variicola	ST2988	KL137	Typeable	Klebsiella variicola subsp. variicola	ST2988	KL137	Very high	True	True	0	True	True	0	True	True	True	
+INF113	INF113	PASS	PASS		Klebsiella pneumoniae	ST321	KL3	Typeable	Klebsiella pneumoniae	ST321	KL3	Very high	True	True	0	True	True	0	True	True	True	
+INF114	INF114	PASS	PASS		Klebsiella variicola subsp. variicola	ST2989	KL55	Typeable	Klebsiella variicola subsp. variicola	ST2989	KL55	Very high	True	True	0	True	True	0	True	True	True	
+INF117.1	INF117	PASS	PASS		Klebsiella pneumoniae	ST3045	KL146	Typeable	Klebsiella pneumoniae	ST3045	KL146	Very high	True	True	0	True	True	0	True	True	True	
+INF118	INF118	PASS	PASS		Klebsiella pneumoniae	ST3073	KL132	Typeable	Klebsiella pneumoniae	ST3073	KL132	Perfect	True	True	0	True	True	0	True	True	True	
+INF120	INF120	PASS	PASS		Klebsiella pneumoniae	ST309	KL42	Typeable	Klebsiella pneumoniae	ST309	KL42	Perfect	True	True	0	True	True	0	True	True	True	
+INF123	INF123	PASS	PASS		Klebsiella variicola subsp. variicola	ST360	KL53	Typeable	Klebsiella variicola subsp. variicola	ST360	KL53	Perfect	True	True	0	True	True	0	True	True	True	
+INF126	INF126	PASS	PASS		Klebsiella pneumoniae	ST1621	KL46	Typeable	Klebsiella pneumoniae	ST1621	KL46	Perfect	True	True	0	True	True	0	True	True	True	
+INF128	INF128	PASS	PASS		Klebsiella pneumoniae	ST27	KL169	Typeable	Klebsiella pneumoniae	ST27	KL169	Good	True	True	0	True	True	0	True	True	True	
+INF129	INF129	PASS	PASS		Klebsiella pneumoniae	ST1193	KL22	Typeable	Klebsiella pneumoniae	ST1193	KL22	Perfect	True	True	0	True	True	0	True	True	True	
+INF130	INF130	PASS	PASS		Klebsiella pneumoniae	ST1441	KL10	Typeable	Klebsiella pneumoniae	ST1441	KL10	Very high	True	True	0	True	True	0	True	True	True	
+INF131_v2	INF131	PASS	PASS		Klebsiella pneumoniae	ST3066	KL13	Typeable	Klebsiella pneumoniae	ST3066	KL13	Good	True	True	0	True	True	0	True	True	True	
+INF132	INF132	PASS	PASS		Klebsiella pneumoniae	ST3075	KL133	Typeable	Klebsiella pneumoniae	ST3075	KL133	Perfect	True	True	0	True	True	0	True	True	True	
+INF136.1	INF136	PASS	DROP_VARIANT		Klebsiella variicola subsp. variicola	ST616	KL54	Typeable	Klebsiella variicola subsp. variicola	ST616	KL54	Good	True	True	0	True	True	0	True	True	False	
+INF136.2	INF136	PASS	PASS		Klebsiella variicola subsp. variicola	ST616	KL54	Typeable	Klebsiella variicola subsp. variicola	ST616	KL54	Good	True	True	0	True	True	0	True	True	True	
+INF137	INF137	PASS	PASS		Klebsiella pneumoniae	ST3047	KL168	Typeable	Klebsiella pneumoniae	ST3047	KL168	Good	True	True	0	True	True	0	True	True	True	
+INF138	INF138	PASS	PASS		Klebsiella pneumoniae	ST458	KL142	Typeable	Klebsiella pneumoniae	ST458	KL142	Very high	True	True	0	True	True	0	True	True	True	
+INF139	INF139	PASS	PASS		Klebsiella pneumoniae	ST889	KL54	Typeable	Klebsiella pneumoniae	ST889	KL54	Very high	True	True	0	True	True	0	True	True	True	
+INF143	INF143	PASS	PASS		Klebsiella pneumoniae	ST280	KL23	Typeable	Klebsiella pneumoniae	ST280	KL23	Perfect	True	True	0	True	True	0	True	True	True	
+INF147	INF147	PASS	PASS		Klebsiella pneumoniae	ST412	KL57	Typeable	Klebsiella pneumoniae	ST412	KL57	Perfect	True	True	0	True	True	0	True	True	True	
+INF149	INF149	PASS	PASS		Klebsiella pneumoniae	ST629	KL134	Typeable	Klebsiella pneumoniae	ST629	KL134	Perfect	True	True	0	True	True	0	True	True	True	
+INF150	INF150	PASS	PASS		Klebsiella pneumoniae	ST176	KL13	Typeable	Klebsiella pneumoniae	ST176	KL13	Very high	True	True	0	True	True	0	True	True	True	
+INF152	INF152	PASS	PASS		Klebsiella variicola subsp. variicola	ST3094	KL103	Typeable	Klebsiella variicola subsp. variicola	ST3094	KL103	Very high	True	True	0	True	True	0	True	True	True	
+INF153	INF153	PASS	PASS		Klebsiella pneumoniae	ST3046	KL22	Typeable	Klebsiella pneumoniae	ST3046	KL22	Good	True	True	0	True	True	0	True	True	True	
+INF155	INF155	PASS	PASS		Klebsiella pneumoniae	ST882-1LV	KL16	Typeable	Klebsiella pneumoniae	ST882	KL16	Very high	True	True	0	True	True	0	True	True	True	
+INF159	INF159	PASS	PASS		Klebsiella pneumoniae	ST12	KL122	Typeable	Klebsiella pneumoniae	ST12	KL122	Very high	True	True	0	True	True	0	True	True	True	
+INF160	INF160	PASS	PASS		Klebsiella pneumoniae	ST3056	KL30	Typeable	Klebsiella pneumoniae	ST3056	KL30	Very high	True	True	0	True	True	0	True	True	True	
+INF162	INF162	PASS	PASS		Klebsiella pneumoniae	ST20	KL28	Typeable	Klebsiella pneumoniae	ST20	KL28	Very high	True	True	0	True	True	0	True	True	True	
+INF165	INF165	PASS	PASS		Klebsiella pneumoniae	ST54	KL14	Typeable	Klebsiella pneumoniae	ST54	KL14	Good	True	True	0	True	True	0	True	True	True	
+INF166	INF166	PASS	PASS		Klebsiella pneumoniae	ST2370	KL15	Typeable	Klebsiella pneumoniae	ST2370	KL15	Very high	True	True	0	True	True	0	True	True	True	
+INF167_v2	INF167	PASS	PASS_REFERENCE_MISMATCH	reference row describes a different strain	Klebsiella pneumoniae	ST17	KL25	Typeable	Klebsiella pneumoniae	ST2370	KL15	Very high	True	True	0	True	False	4	True	False	True	INF300,INF359,KSB1_9J
+INF169	INF169	PASS	PASS		Klebsiella variicola subsp. variicola	ST1688	KL57	Typeable	Klebsiella variicola subsp. variicola	ST1688	KL57	Good	True	True	0	True	True	0	True	True	True	
+INF170	INF170	PASS	PASS		Klebsiella pneumoniae	ST2116	KL28	Typeable	Klebsiella pneumoniae	ST2116	KL28	Very high	True	True	0	True	True	0	True	True	True	
+INF172	INF172	PASS	PASS		Klebsiella pneumoniae	ST540	KL9	Typeable	Klebsiella pneumoniae	ST540	KL9	Very high	True	True	0	True	True	0	True	True	True	
+INF173	INF173	PASS	PASS		Klebsiella pneumoniae	ST256	KL47	Typeable	Klebsiella pneumoniae	ST256	KL47	Very high	True	True	0	True	True	0	True	True	True	
+INF175	INF175	PASS	PASS		Klebsiella pneumoniae	ST1165	KL45	Typeable	Klebsiella pneumoniae	ST1165	KL45	Perfect	True	True	0	True	True	0	True	True	True	
+INF176	INF176	PASS	PASS		Klebsiella pneumoniae	ST37	KL14	Typeable	Klebsiella pneumoniae	ST37	KL14	Good	True	True	0	True	True	0	True	True	True	
+INF180	INF180	PASS	PASS		Klebsiella pneumoniae	ST661	KL28	Typeable	Klebsiella pneumoniae	ST661	KL28	Very high	True	True	0	True	True	0	True	True	True	
+INF181	INF181	PASS	PASS		Klebsiella variicola subsp. variicola	ST347	KL14	Untypeable	Klebsiella variicola subsp. variicola	ST347	KL14	High	True	True	0	True	True	0	True	True	True	
+INF183	INF183	PASS	PASS		Klebsiella pneumoniae	ST36	KL51	Typeable	Klebsiella pneumoniae	ST36	KL51	Very high	True	True	0	True	True	0	True	True	True	
+INF184	INF184	PASS_FALSE_POSITIVE_CONTAM	PASS		Klebsiella pneumoniae	ST3062	KL124	Typeable	Klebsiella pneumoniae	ST3062	KL124	Perfect	True	True	0	True	True	0	True	True	True	
+INF186	INF186	REDO_DECONTAM_KLEBSIELLA	PASS		Klebsiella quasipneumoniae subsp. similipneumoniae	ST480	KL52	Typeable	Klebsiella quasipneumoniae subsp. similipneumoniae	ST480	KL52	Very high	True	True	0	True	True	0	True	True	True	
+INF187_v2	INF187	PASS	PASS_REFERENCE_MISMATCH	reference row describes a different strain	Klebsiella pneumoniae	ST23	KL1	Typeable	Klebsiella quasipneumoniae subsp. similipneumoniae	ST480	KL52	Very high	True	True	0	False	False	7	True	False	True	KSB1_10A,INF079
+INF189	INF189	PASS	PASS		Klebsiella variicola subsp. variicola	ST3083	KL53	Typeable	Klebsiella variicola subsp. variicola	ST3083	KL53	Low	True	True	0	True	True	0	True	True	True	
+INF191	INF191	PASS	PASS		Klebsiella pneumoniae	ST86	KL2	Typeable	Klebsiella pneumoniae	ST86	KL2	Good	True	True	0	True	True	0	True	True	True	
+INF193	INF193	PASS	PASS		Klebsiella variicola subsp. variicola	ST681	KL10	Typeable	Klebsiella variicola subsp. variicola	ST681	KL10	Perfect	True	True	0	True	True	0	True	True	True	
+INF195	INF195	PASS_PROVISIONAL_CHECK_EXTERNAL	PASS		Klebsiella quasipneumoniae subsp. similipneumoniae	ST414	KL123	Typeable	Klebsiella quasipneumoniae subsp. similipneumoniae	ST414	KL123	Perfect	True	True	0	True	True	0	True	True	True	
+INF196	INF196	PASS	PASS		Klebsiella pneumoniae	ST66	KL2	Typeable	Klebsiella pneumoniae	ST66	KL2	Very high	True	True	0	True	True	0	True	True	True	
+INF197	INF197	PASS	PASS		Klebsiella pneumoniae	ST27	KL38	Typeable	Klebsiella pneumoniae	ST27	KL38	Low	True	True	0	True	True	0	True	True	True	
+INF198	INF198	PASS	PASS		Klebsiella pneumoniae	ST1010	KL142	Typeable	Klebsiella pneumoniae	ST1010	KL142	Perfect	True	True	0	True	True	0	True	True	True	
+INF199	INF199	PASS	PASS		Klebsiella pneumoniae	ST629	KL10	Typeable	Klebsiella pneumoniae	ST629	KL10	Very high	True	True	0	True	True	0	True	True	True	
+INF200	INF200	PASS	PASS		Klebsiella pneumoniae	ST292-1LV	KL143	Typeable	Klebsiella pneumoniae	ST292	KL143	Perfect	True	True	0	True	True	0	True	True	True	
+INF202_v2	INF202	PASS	PASS_REFERENCE_MISMATCH	reference row describes a different strain	Klebsiella pneumoniae	ST292	KL143	Typeable	Klebsiella pneumoniae	ST3052	KL112	Perfect	True	True	0	True	False	5	True	False	True	INF200
+INF203	INF203	PASS	PASS		Klebsiella variicola subsp. variicola	ST3088	KL16	Typeable	Klebsiella variicola subsp. variicola	ST3088	KL16	Very high	True	True	0	True	True	0	True	True	True	
+INF204	INF204	PASS	PASS		Klebsiella pneumoniae	ST253	KL15	Typeable	Klebsiella pneumoniae	ST253	KL15	Very high	True	True	0	True	True	0	True	True	True	
+INF205	INF205	REDO_ASSEMBLY_META	PASS		Klebsiella pneumoniae	ST3049	KL55	Typeable	Klebsiella pneumoniae	ST3049	KL55	Very high	True	True	0	True	True	0	True	True	True	
+INF207	INF207	PASS	PASS		Klebsiella quasipneumoniae subsp. similipneumoniae	ST1308	KL144	Typeable	Klebsiella quasipneumoniae subsp. similipneumoniae	ST1308	KL144	Perfect	True	True	0	True	True	0	True	True	True	
+INF209	INF209	PASS	PASS		Klebsiella variicola subsp. variicola	ST681	KL10	Typeable	Klebsiella variicola subsp. variicola	ST681	KL10	Perfect	True	True	0	True	True	0	True	True	True	
+INF211	INF211	PASS	PASS		Klebsiella pneumoniae	ST281	KL64	Typeable	Klebsiella pneumoniae	ST281	KL64	Very high	True	True	0	True	True	0	True	True	True	
+INF212	INF212	PASS	PASS		Klebsiella variicola subsp. variicola	ST681	KL10	Typeable	Klebsiella variicola subsp. variicola	ST681	KL10	Perfect	True	True	0	True	True	0	True	True	True	
+INF213	INF213	PASS	PASS		Klebsiella pneumoniae	ST323	KL21	Typeable	Klebsiella pneumoniae	ST323	KL21	Very high	True	True	0	True	True	0	True	True	True	
+INF216	INF216	REDO_DECONTAM_KLEBSIELLA	PASS		Klebsiella variicola subsp. variicola	ST3079	KL53	Typeable	Klebsiella variicola subsp. variicola	ST3079	KL53	Very high	True	True	0	True	True	0	True	True	True	
+INF217	INF217	PASS	PASS		Klebsiella variicola subsp. variicola	ST919	KL67	Typeable	Klebsiella variicola subsp. variicola	ST919	KL67	Good	True	True	0	True	True	0	True	True	True	
+INF218	INF218	PASS	PASS		Klebsiella variicola subsp. variicola	ST3081	KL15	Typeable	Klebsiella variicola subsp. variicola	ST3081	KL15	Very high	True	True	0	True	True	0	True	True	True	
+INF219	INF219	PASS	PASS		Klebsiella variicola subsp. variicola	ST594	KL19	Typeable	Klebsiella variicola subsp. variicola	ST594	KL19	Very high	True	True	0	True	True	0	True	True	True	
+INF220	INF220	PASS	PASS		Klebsiella pneumoniae	ST1877	KL14	Typeable	Klebsiella pneumoniae	ST1877	KL14	Good	True	True	0	True	True	0	True	True	True	
+INF221	INF221	PASS	PASS		Klebsiella quasipneumoniae subsp. similipneumoniae	ST1822	KL48	Typeable	Klebsiella quasipneumoniae subsp. similipneumoniae	ST1822	KL48	High	True	True	0	True	True	0	True	True	True	
+INF224	INF224	PASS	PASS		Klebsiella pneumoniae	ST336	KL25	Typeable	Klebsiella pneumoniae	ST336	KL25	High	True	True	0	True	True	0	True	True	True	
+INF225	INF225	PASS	PASS		Klebsiella pneumoniae	ST86	KL2	Typeable	Klebsiella pneumoniae	ST86	KL2	Very high	True	True	0	True	True	0	True	True	True	
+INF226_v2	INF226	PASS	PASS_REFERENCE_MISMATCH	reference row describes a different strain	Klebsiella pneumoniae	ST336	KL25	Typeable	Klebsiella pneumoniae	ST3068	KL119	Very high	True	True	0	True	False	4	True	False	True	INF224
+INF227_v2	INF227	PASS	PASS_REFERENCE_MISMATCH	reference row describes a different strain	Klebsiella pneumoniae	ST86	KL2	Typeable	Klebsiella pneumoniae	ST792	KL25	Perfect	True	True	0	True	False	6	True	False	True	INF191,INF225,INF254,INF331
+INF229_v2	INF229	PASS	PASS_REFERENCE_MISMATCH	reference row describes a different strain	Klebsiella pneumoniae	ST3068	KL119	Typeable	Klebsiella pneumoniae	ST221	KL50		True	True	0	True	False	5	True	False	True	INF226
+INF230	INF230	PASS	PASS		Klebsiella quasipneumoniae subsp. similipneumoniae	ST3093	KL47	Typeable	Klebsiella quasipneumoniae subsp. similipneumoniae	ST3093	KL47	Very high	True	True	0	True	True	0	True	True	True	
+INF233	INF233	PASS	PASS		Klebsiella pneumoniae	ST180	KL55	Typeable	Klebsiella pneumoniae	ST180	KL55	Very high	True	True	0	True	True	0	True	True	True	
+INF234	INF234	PASS	PASS		Klebsiella pneumoniae	ST134	KL25	Typeable	Klebsiella pneumoniae	ST134	KL25	High	True	True	0	True	True	0	True	True	True	
+INF238	INF238	PASS	PASS		Klebsiella variicola subsp. variicola	ST347	KL103	Typeable	Klebsiella variicola subsp. variicola	ST347	KL103	Very high	True	True	0	True	True	0	True	True	True	
+INF239	INF239	PASS	PASS		Klebsiella pneumoniae	ST564	KL28	Typeable	Klebsiella pneumoniae	ST564	KL28	Perfect	True	True	0	True	True	0	True	True	True	
+INF241	INF241	PASS	PASS		Klebsiella pneumoniae	ST3072	KL39	Typeable	Klebsiella pneumoniae	ST3072	KL39	Very high	True	True	0	True	True	0	True	True	True	
+INF243	INF243	PASS	PASS		Klebsiella pneumoniae	ST3072	KL39	Typeable	Klebsiella pneumoniae	ST3072	KL39	Very high	True	True	0	True	True	0	True	True	True	
+INF244	INF244	PASS	PASS		Klebsiella variicola subsp. variicola	ST681	KL10	Typeable	Klebsiella variicola subsp. variicola	ST681	KL10	Perfect	True	True	0	True	True	0	True	True	True	
+INF245	INF245	PASS	PASS		Klebsiella variicola subsp. variicola	ST681	KL10	Typeable	Klebsiella variicola subsp. variicola	ST681	KL10	Perfect	True	True	0	True	True	0	True	True	True	
+INF246	INF246	PASS	PASS		Klebsiella pneumoniae	ST29	KL30	Typeable	Klebsiella pneumoniae	ST29	KL30	Good	True	True	0	True	True	0	True	True	True	
+INF248	INF248	PASS	PASS		Klebsiella pneumoniae	ST3063	KL20	Typeable	Klebsiella pneumoniae	ST3063	KL20	Very high	True	True	0	True	True	0	True	True	True	
+INF251_v2	INF251	PASS	PASS_REFERENCE_MISMATCH	reference row describes a different strain	Klebsiella pneumoniae	ST2623	KL52	Typeable	Klebsiella pneumoniae	ST485	KL28	Very high	True	True	0	True	False	3	True	False	True	
+INF252	INF252	PASS	PASS		Klebsiella pneumoniae	ST485	KL28	Typeable	Klebsiella pneumoniae	ST485	KL28	Very high	True	True	0	True	True	0	True	True	True	
+INF253	INF253	PASS	PASS		Klebsiella pneumoniae	ST101	KL17	Typeable	Klebsiella pneumoniae	ST101	KL17	Perfect	True	True	0	True	True	0	True	True	True	
+INF254.1	INF254	PASS	PASS		Klebsiella pneumoniae	ST86	KL2	Typeable	Klebsiella pneumoniae	ST86	KL2	Very high	True	True	0	True	True	0	True	True	True	
+INF254.2	INF254	PASS	DROP_VARIANT		Klebsiella pneumoniae	ST86	KL2	Typeable	Klebsiella pneumoniae	ST86	KL2	Very high	True	True	0	True	True	0	True	True	False	
+INF255.1_v2	INF255	PASS	PASS_REFERENCE_MISMATCH	reference row describes a different strain	Klebsiella pneumoniae	ST29	KL30	Typeable	Klebsiella variicola subsp. variicola	ST681	KL10	Perfect	True	True	0	False	False	7	True	False	True	INF261,INF282,INF289,INF314,INF246,INF332,INF122,INF249,INF250,INF322
+INF256	INF256	PASS	PASS		Klebsiella pneumoniae	ST3043	KL10	Typeable	Klebsiella pneumoniae	ST3043	KL10	Good	True	True	0	True	True	0	True	True	True	
+INF257.1_v2	INF257	PASS	DROP_VARIANT		Klebsiella pneumoniae	ST3074	KL13	Typeable	Klebsiella pneumoniae	ST1536	KL30	High	True	True	0	True	False	4	True	False	False	INF258
+INF257.2_v2	INF257	PASS	PASS		Klebsiella pneumoniae	ST1536	KL30	Typeable	Klebsiella pneumoniae	ST1536	KL30	High	True	True	0	True	True	0	True	True	True	
+INF258	INF258	PASS	PASS		Klebsiella pneumoniae	ST3074	KL13	Typeable	Klebsiella pneumoniae	ST3074	KL13	Very high	True	True	0	True	True	0	True	True	True	
+INF259	INF259	PASS	PASS		Klebsiella variicola subsp. variicola	ST3086	KL53	Typeable	Klebsiella variicola subsp. variicola	ST3086	KL53	Good	True	True	0	True	True	0	True	True	True	
+INF260	INF260	PASS	PASS		Klebsiella pneumoniae	ST323	KL21	Typeable	Klebsiella pneumoniae	ST323	KL21	Very high	True	True	0	True	True	0	True	True	True	
+INF261	INF261	PASS	PASS		Klebsiella pneumoniae	ST29	KL30	Typeable	Klebsiella pneumoniae	ST29	KL30	Good	True	True	0	True	True	0	True	True	True	
+INF264	INF264	PASS	PASS		Klebsiella pneumoniae	ST1017	KL58	Typeable	Klebsiella pneumoniae	ST1017	KL58	Very high	True	True	0	True	True	0	True	True	True	
+INF265	INF265	PASS	PASS		Klebsiella pneumoniae	ST1507	KL114	Typeable	Klebsiella pneumoniae	ST1507	KL114	Very high	True	True	0	True	True	0	True	True	True	
+INF267	INF267	PASS	PASS_REFERENCE_MISMATCH	reference K locus call unusable	Klebsiella variicola subsp. variicola	ST3078	KL64	Typeable	Klebsiella variicola subsp. variicola	ST3078	KL107		True	True	0	True	False	0	True	False	True	
+INF268	INF268	PASS	PASS		Klebsiella pneumoniae	ST3098	KL24	Typeable	Klebsiella pneumoniae	ST3098	KL24	Very high	True	True	0	True	True	0	True	True	True	
+INF269	INF269	PASS_FALSE_POSITIVE_CONTAM	PASS		Klebsiella pneumoniae	ST13	KL3	Typeable	Klebsiella pneumoniae	ST13	KL3	Very high	True	True	0	True	True	0	True	True	True	
+INF271	INF271	PASS	PASS		Klebsiella pneumoniae	ST37	KL15	Typeable	Klebsiella pneumoniae	ST37	KL15	Very high	True	True	0	True	True	0	True	True	True	
+INF273	INF273	PASS	PASS		Klebsiella pneumoniae	ST500	KL34	Typeable	Klebsiella pneumoniae	ST500	KL34	Very high	True	True	0	True	True	0	True	True	True	
+INF275	INF275	PASS	PASS		Klebsiella pneumoniae	ST1464	KL109	Typeable	Klebsiella pneumoniae	ST1464	KL109		True	True	0	True	True	0	True	True	True	
+INF280	INF280	PASS	PASS		Klebsiella pneumoniae	ST3055	KL47	Typeable	Klebsiella pneumoniae	ST3055	KL47	Very high	True	True	0	True	True	0	True	True	True	
+INF282	INF282	PASS	PASS		Klebsiella pneumoniae	ST29	KL30	Typeable	Klebsiella pneumoniae	ST29	KL30	Good	True	True	0	True	True	0	True	True	True	
+INF283	INF283	PASS	PASS		Klebsiella pneumoniae	ST111	KL63	Typeable	Klebsiella pneumoniae	ST111	KL63	Very high	True	True	0	True	True	0	True	True	True	
+INF284	INF284	PASS	PASS		Klebsiella pneumoniae	ST3072	KL39	Typeable	Klebsiella pneumoniae	ST3072	KL39	Very high	True	True	0	True	True	0	True	True	True	
+INF286	INF286	PASS	PASS		Klebsiella pneumoniae	ST3096	KL58	Typeable	Klebsiella pneumoniae	ST3096	KL58	Good	True	True	0	True	True	0	True	True	True	
+INF287	INF287	PASS	PASS		Klebsiella variicola subsp. variicola	ST3082	KL57	Typeable	Klebsiella variicola subsp. variicola	ST3082	KL57	Very high	True	True	0	True	True	0	True	True	True	
+INF288	INF288	PASS	PASS		Klebsiella variicola subsp. variicola	ST3084	KL125	Typeable	Klebsiella variicola subsp. variicola	ST3084	KL125	Perfect	True	True	0	True	True	0	True	True	True	
+INF289	INF289	PASS	PASS		Klebsiella pneumoniae	ST29	KL30	Typeable	Klebsiella pneumoniae	ST29	KL30	Good	True	True	0	True	True	0	True	True	True	
+INF292	INF292	PASS	PASS		Klebsiella pneumoniae	ST661	KL28	Typeable	Klebsiella pneumoniae	ST661	KL28	Very high	True	True	0	True	True	0	True	True	True	
+INF293	INF293	PASS	PASS		Klebsiella pneumoniae	ST3040	KL38	Typeable	Klebsiella pneumoniae	ST3040	KL38	Good	True	True	0	True	True	0	True	True	True	
+INF295	INF295	PASS	PASS		Klebsiella pneumoniae	ST323	KL21	Typeable	Klebsiella pneumoniae	ST323	KL21	Very high	True	True	0	True	True	0	True	True	True	
+INF297	INF297	PASS	PASS		Klebsiella pneumoniae	ST461	KL62	Typeable	Klebsiella pneumoniae	ST461	KL62	Good	True	True	0	True	True	0	True	True	True	
+INF301	INF301	PASS	PASS		Klebsiella pneumoniae	ST27	KL61	Typeable	Klebsiella pneumoniae	ST27	KL61	Good	True	True	0	True	True	0	True	True	True	
+INF303	INF303	PASS	PASS		Klebsiella pneumoniae	ST3054	KL46	Typeable	Klebsiella pneumoniae	ST3054	KL46	Good	True	True	0	True	True	0	True	True	True	
+INF306	INF306	PASS	PASS		Klebsiella pneumoniae	ST3069	KL47	Typeable	Klebsiella pneumoniae	ST3069	KL47	Good	True	True	0	True	True	0	True	True	True	
+INF307	INF307	PASS	PASS		Klebsiella variicola subsp. variicola	ST1456	KL60	Typeable	Klebsiella variicola subsp. variicola	ST1456	KL60	Good	True	True	0	True	True	0	True	True	True	
+INF308	INF308	PASS	PASS		Klebsiella pneumoniae	ST1997	KL28	Typeable	Klebsiella pneumoniae	ST1997	KL28	Very high	True	True	0	True	True	0	True	True	True	
+INF309.1	INF309	PASS	DROP_VARIANT		Klebsiella quasipneumoniae subsp. similipneumoniae	ST1548	KL170	Typeable	Klebsiella quasipneumoniae subsp. similipneumoniae	ST1548	KL170	Very high	True	True	0	True	True	0	True	True	False	
+INF309.2	INF309	PASS	PASS		Klebsiella quasipneumoniae subsp. similipneumoniae	ST1548	KL170	Typeable	Klebsiella quasipneumoniae subsp. similipneumoniae	ST1548	KL170	Very high	True	True	0	True	True	0	True	True	True	
+INF311	INF311	PASS	PASS_REFERENCE_MISMATCH	reference K locus call unusable	Klebsiella pneumoniae	ST240	KL144	Untypeable	Klebsiella pneumoniae	ST240	KL107		True	True	0	True	False	0	True	False	True	
+INF312	INF312	PASS	PASS		Klebsiella variicola subsp. variicola	ST2989	KL55	Typeable	Klebsiella variicola subsp. variicola	ST2989	KL55	Good	True	True	0	True	True	0	True	True	True	
+INF314	INF314	PASS	PASS		Klebsiella pneumoniae	ST29	KL30	Typeable	Klebsiella pneumoniae	ST29	KL30	Good	True	True	0	True	True	0	True	True	True	
+INF315.1	INF315	PASS	PASS		Klebsiella pneumoniae	ST3057	KL30	Typeable	Klebsiella pneumoniae	ST3057	KL30	Very high	True	True	0	True	True	0	True	True	True	
+INF315.2	INF315	PASS	DROP_VARIANT		Klebsiella pneumoniae	ST3057	KL30	Typeable	Klebsiella pneumoniae	ST3057	KL30	Very high	True	True	0	True	True	0	True	True	False	
+INF317	INF317	PASS	PASS		Klebsiella pneumoniae	ST792	KL25	Typeable	Klebsiella pneumoniae	ST792	KL25	Perfect	True	True	0	True	True	0	True	True	True	
+INF318	INF318	PASS	PASS		Klebsiella quasipneumoniae subsp. similipneumoniae	ST1548	KL170	Typeable	Klebsiella quasipneumoniae subsp. similipneumoniae	ST1548	KL170	Very high	True	True	0	True	True	0	True	True	True	
+INF320	INF320	PASS	PASS		Klebsiella variicola subsp. variicola	ST1142	KL105	Typeable	Klebsiella variicola subsp. variicola	ST1142	KL105	Very high	True	True	0	True	True	0	True	True	True	
+INF324	INF324	PASS	PASS		Klebsiella pneumoniae	ST3058	KL51	Typeable	Klebsiella pneumoniae	ST3058	KL51	Very high	True	True	0	True	True	0	True	True	True	
+INF325	INF325	PASS	PASS		Klebsiella pneumoniae	ST3048	KL30	Typeable	Klebsiella pneumoniae	ST3048	KL30	Very high	True	True	0	True	True	0	True	True	True	
+INF326	INF326	PASS	PASS		Klebsiella pneumoniae	ST412	KL57	Typeable	Klebsiella pneumoniae	ST412	KL57		True	True	0	True	True	0	True	True	True	
+INF328	INF328	PASS	PASS		Klebsiella pneumoniae	ST37	KL14	Typeable	Klebsiella pneumoniae	ST37	KL14	Good	True	True	0	True	True	0	True	True	True	
+INF330	INF330	PASS	PASS		Klebsiella variicola subsp. variicola	ST3089	KL142	Typeable	Klebsiella variicola subsp. variicola	ST3089	KL142	High	True	True	0	True	True	0	True	True	True	
+INF332_v2	INF332	PASS	PASS_REFERENCE_MISMATCH	reference row describes a different strain	Klebsiella pneumoniae	ST200	KL13	Typeable	Klebsiella pneumoniae	ST29	KL30	Good	True	True	0	True	False	5	True	False	True	
+INF336_v2	INF336	PASS	PASS		Klebsiella variicola subsp. variicola	ST3095	KL55	Typeable	Klebsiella variicola subsp. variicola	ST3095	KL55	High	True	True	0	True	True	0	True	True	True	
+INF337	INF337	PASS	PASS		Klebsiella pneumoniae	ST27	KL109	Typeable	Klebsiella pneumoniae	ST27	KL109	Good	True	True	0	True	True	0	True	True	True	
+INF338	INF338	PASS	PASS		Klebsiella pneumoniae	ST34	KL38	Typeable	Klebsiella pneumoniae	ST34	KL38	Perfect	True	True	0	True	True	0	True	True	True	
+INF339	INF339	PASS	PASS		Klebsiella pneumoniae	ST792	KL25	Typeable	Klebsiella pneumoniae	ST792	KL25		True	True	0	True	True	0	True	True	True	
+INF340	INF340	PASS_BORDERLINE_MAPPING	PASS		Klebsiella pneumoniae	ST45	KL24	Typeable	Klebsiella pneumoniae	ST45	KL24	Very high	True	True	0	True	True	0	True	True	True	
+INF342	INF342	PASS	PASS		Klebsiella pneumoniae	ST3099	KL155	Typeable	Klebsiella pneumoniae	ST3099	KL155		True	True	0	True	True	0	True	True	True	
+INF347	INF347	PASS	PASS		Klebsiella pneumoniae	ST111	KL63	Typeable	Klebsiella pneumoniae	ST111	KL63	Very high	True	True	0	True	True	0	True	True	True	
+INF349	INF349	PASS	PASS		Klebsiella variicola subsp. variicola	ST3085	KL55	Typeable	Klebsiella variicola subsp. variicola	ST3085	KL55	Perfect	True	True	0	True	True	0	True	True	True	
+INF351	INF351	PASS	PASS		Klebsiella pneumoniae	ST3051	KL20	Typeable	Klebsiella pneumoniae	ST3051	KL20	Very high	True	True	0	True	True	0	True	True	True	
+INF353	INF353	PASS	PASS		Klebsiella pneumoniae	ST1109	KL54	Typeable	Klebsiella pneumoniae	ST1109	KL54	Very high	True	True	0	True	True	0	True	True	True	
+INF356	INF356	PASS	PASS		Klebsiella pneumoniae	ST661	KL28	Typeable	Klebsiella pneumoniae	ST661	KL28	Very high	True	True	0	True	True	0	True	True	True	
+INF360	INF360	PASS	PASS		Klebsiella pneumoniae	ST323-1LV	KL21	Typeable	Klebsiella pneumoniae	ST323	KL21	High	True	True	0	True	True	0	True	True	True	
+KSB1_10A_v2	KSB1_10A	PASS	PASS_REFERENCE_MISMATCH	reference row describes a different strain	Klebsiella quasipneumoniae subsp. quasipneumoniae	ST5062	KL6	Typeable	Klebsiella pneumoniae	ST23	KL1	Very high	True	True	0	False	False	7	True	False	True	
+KSB1_10C	KSB1_10C	PASS	PASS		Klebsiella pneumoniae	ST1966	KL58	Typeable	Klebsiella pneumoniae	ST1966	KL58	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_10D	KSB1_10D	PASS	PASS		Klebsiella pneumoniae	ST1728	KL116	Typeable	Klebsiella pneumoniae	ST1728	KL116	Good	True	True	0	True	True	0	True	True	True	
+KSB1_10F	KSB1_10F	PASS	PASS		Klebsiella variicola subsp. variicola	ST1986	KL137	Typeable	Klebsiella variicola subsp. variicola	ST1986	KL137	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_10G	KSB1_10G	PASS	PASS		Klebsiella pneumoniae	ST1800	KL30	Typeable	Klebsiella pneumoniae	ST1800	KL30	Good	True	True	0	True	True	0	True	True	True	
+KSB1_10H	KSB1_10H	PASS	PASS		Klebsiella pneumoniae	ST345	KL15	Typeable	Klebsiella pneumoniae	ST345	KL15	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_1A	KSB1_1A	PASS	PASS		Klebsiella pneumoniae	ST35	KL22	Typeable	Klebsiella pneumoniae	ST35	KL22	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_1C	KSB1_1C	PASS	PASS		Klebsiella pneumoniae	ST537	KL136	Typeable	Klebsiella pneumoniae	ST537	KL136	Perfect	True	True	0	True	True	0	True	True	True	
+KSB1_1D	KSB1_1D	PASS	PASS		Klebsiella pneumoniae	ST45-1LV	KL43	Typeable	Klebsiella pneumoniae	ST45	KL43	High	True	True	0	True	True	0	True	True	True	
+KSB1_1E_v2	KSB1_1E	PASS	PASS		Klebsiella pneumoniae	ST461	KL51	Typeable	Klebsiella pneumoniae	ST461	KL51	Good	True	True	0	True	True	0	True	True	True	
+KSB1_1F	KSB1_1F	PASS	PASS		Klebsiella pneumoniae	ST857	KL13	Typeable	Klebsiella pneumoniae	ST857	KL13	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_1G	KSB1_1G	PASS	PASS		Klebsiella pneumoniae	ST37	KL15	Typeable	Klebsiella pneumoniae	ST37	KL15	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_2A	KSB1_2A	PASS	PASS		Klebsiella variicola subsp. variicola	ST596	KL35	Typeable	Klebsiella variicola subsp. variicola	ST596	KL35	Good	True	True	0	True	True	0	True	True	True	
+KSB1_2C	KSB1_2C	PASS	PASS		Klebsiella variicola subsp. variicola	ST3924	KL25	Typeable	Klebsiella variicola subsp. variicola	ST3924	KL25	High	True	True	0	True	True	0	True	True	True	
+KSB1_2D	KSB1_2D	PASS	PASS		Klebsiella pneumoniae	ST128	KL6	Typeable	Klebsiella pneumoniae	ST128	KL6	Perfect	True	True	0	True	True	0	True	True	True	
+KSB1_2E	KSB1_2E	PASS	PASS		Klebsiella pneumoniae	ST6935	KL56	Typeable	Klebsiella pneumoniae	ST993-1LV	KL56	Perfect	True	True	0	True	True	0	True	True	True	
+KSB1_2F	KSB1_2F	PASS_PROVISIONAL_CHECK_EXTERNAL	PASS		Klebsiella variicola subsp. variicola	ST2594	KL134	Typeable	Klebsiella variicola subsp. variicola	ST2594	KL134	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_2G	KSB1_2G	PASS	PASS		Klebsiella variicola subsp. variicola	ST205	KL55	Typeable	Klebsiella variicola subsp. variicola	ST205	KL55	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_2I	KSB1_2I	REDO_DECONTAM_ECOLI	PASS		Klebsiella variicola subsp. variicola	ST2993	KL151	Typeable	Klebsiella variicola subsp. variicola	ST2993	KL151	Good	True	True	0	True	True	0	True	True	True	
+KSB1_2J	KSB1_2J	PASS	PASS		Klebsiella variicola subsp. variicola	ST355	KL63	Typeable	Klebsiella variicola subsp. variicola	ST355	KL63	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_3B	KSB1_3B	PASS	PASS		Klebsiella variicola subsp. variicola	ST360	KL53	Typeable	Klebsiella variicola subsp. variicola	ST360	KL53	Perfect	True	True	0	True	True	0	True	True	True	
+KSB1_3C	KSB1_3C	PASS	PASS		Klebsiella variicola subsp. variicola	ST3198	KL103	Untypeable	Klebsiella variicola subsp. variicola	ST3198	KL103		True	True	0	True	True	0	True	True	True	
+KSB1_3D	KSB1_3D	PASS	PASS		Klebsiella pneumoniae	ST2136	KL102	Typeable	Klebsiella pneumoniae	ST2136	KL102	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_3E	KSB1_3E	PASS	PASS_REFERENCE_MISMATCH	K locus ambiguous on fragmented reference assembly	Klebsiella pneumoniae	ST6936	KL22	Typeable	Klebsiella pneumoniae	ST10-1LV	KL37	Good	True	True	0	True	False	1	True	False	True	
+KSB1_3F	KSB1_3F	PASS	PASS		Klebsiella variicola subsp. variicola	ST2089	KL19	Typeable	Klebsiella variicola subsp. variicola	ST2089	KL19	Perfect	True	True	0	True	True	0	True	True	True	
+KSB1_3G	KSB1_3G	PASS	PASS		Klebsiella pneumoniae	ST39	KL62	Typeable	Klebsiella pneumoniae	ST39	KL62	High	True	True	0	True	True	0	True	True	True	
+KSB1_3I	KSB1_3I	PASS_PROVISIONAL_CHECK_EXTERNAL	PASS		Klebsiella quasipneumoniae subsp. similipneumoniae	ST1548	KL170	Typeable	Klebsiella quasipneumoniae subsp. similipneumoniae	ST1548	KL170	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_3J	KSB1_3J	PASS	PASS		Klebsiella pneumoniae	ST152	KL149	Typeable	Klebsiella pneumoniae	ST152	KL149	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_4A	KSB1_4A	PASS	PASS		Klebsiella pneumoniae	ST5142	KL27	Typeable	Klebsiella pneumoniae	ST2800-1LV	KL27	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_4B	KSB1_4B	PASS	PASS		Klebsiella pneumoniae	ST2116	KL28	Typeable	Klebsiella pneumoniae	ST2116	KL28	Good	True	True	0	True	True	0	True	True	True	
+KSB1_4C	KSB1_4C	PASS	PASS		Klebsiella pneumoniae	ST1322	KL139	Typeable	Klebsiella pneumoniae	ST1322	KL139	Perfect	True	True	0	True	True	0	True	True	True	
+KSB1_4D	KSB1_4D	PASS	PASS		Klebsiella pneumoniae	ST6934	KL46	Typeable	Klebsiella pneumoniae	ST277-1LV	KL46	Good	True	True	0	True	True	1	True	True	True	
+KSB1_4G	KSB1_4G	PASS	PASS		Klebsiella quasipneumoniae subsp. quasipneumoniae	ST6938	KL6	Typeable	Klebsiella quasipneumoniae subsp. quasipneumoniae	ST2981-3LV	KL6	Very high	True	True	0	True	True	1	True	True	True	
+KSB1_4H	KSB1_4H	PASS	PASS		Klebsiella variicola subsp. variicola	ST4595	KL6	Typeable	Klebsiella variicola subsp. variicola	ST3082-2LV	KL6	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_4J	KSB1_4J	PASS	PASS		Klebsiella variicola subsp. variicola	ST208	KL9	Typeable	Klebsiella variicola subsp. variicola	ST208	KL9	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_5A	KSB1_5A	PASS	PASS		Klebsiella pneumoniae	ST2990	KL8	Typeable	Klebsiella pneumoniae	ST2990	KL8	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_5C	KSB1_5C	PASS_BORDERLINE_MAPPING	PASS		Klebsiella pneumoniae	ST3169	KL31	Typeable	Klebsiella pneumoniae	ST3169	KL31	Good	True	True	0	True	True	0	True	True	True	
+KSB1_5E	KSB1_5E	PASS	PASS		Klebsiella pneumoniae	ST461	KL51	Typeable	Klebsiella pneumoniae	ST461	KL51	Good	True	True	0	True	True	0	True	True	True	
+KSB1_5F	KSB1_5F	PASS	PASS		Klebsiella pneumoniae	ST6937	KL36	Typeable	Klebsiella pneumoniae	ST831-1LV	KL36	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_6B	KSB1_6B	PASS	PASS		Klebsiella variicola subsp. variicola	ST1599	KL60	Typeable	Klebsiella variicola subsp. variicola	ST1599	KL60	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_6C	KSB1_6C	PASS	PASS		Klebsiella pneumoniae	ST20	KL28	Typeable	Klebsiella pneumoniae	ST20	KL28	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_6D_v2	KSB1_6D	PASS_PROVISIONAL_CHECK_EXTERNAL	PASS		Klebsiella quasipneumoniae subsp. similipneumoniae	ST414	KL123	Typeable	Klebsiella quasipneumoniae subsp. similipneumoniae	ST414	KL123	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_6E	KSB1_6E	PASS	PASS		Klebsiella pneumoniae	ST4553	KL14	Typeable	Klebsiella pneumoniae	ST1243-1LV	KL14	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_6I.1	KSB1_6I	PASS	PASS		Klebsiella pneumoniae	ST252	KL81	Typeable	Klebsiella pneumoniae	ST252	KL81	Perfect	True	True	0	True	True	0	True	True	True	
+KSB1_6I.2	KSB1_6I	PASS	DROP_VARIANT		Klebsiella pneumoniae	ST252	KL81	Typeable	Klebsiella pneumoniae	ST252	KL81	Perfect	True	True	0	True	True	0	True	True	False	
+KSB1_7B.1	KSB1_7B	PASS	PASS		Klebsiella pneumoniae	ST5168	KL21	Typeable	Klebsiella pneumoniae	ST3178-1LV	KL21	Good	True	True	0	True	True	0	True	True	True	
+KSB1_7C	KSB1_7C	PASS	PASS		Klebsiella pneumoniae	ST15	KL24	Typeable	Klebsiella pneumoniae	ST15	KL24	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_7D	KSB1_7D	PASS	PASS		Klebsiella pneumoniae	ST461	KL117	Typeable	Klebsiella pneumoniae	ST461	KL117	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_7H	KSB1_7H	PASS	PASS		Klebsiella pneumoniae	ST111	KL63	Typeable	Klebsiella pneumoniae	ST111	KL63	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_8A	KSB1_8A	PASS	PASS		Klebsiella pneumoniae	ST2991	KL119	Typeable	Klebsiella pneumoniae	ST2991	KL119	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_8B	KSB1_8B	PASS	PASS		Klebsiella variicola subsp. variicola	ST2388	KL135	Typeable	Klebsiella variicola subsp. variicola	ST2388	KL135	Perfect	True	True	0	True	True	0	True	True	True	
+KSB1_8E.1	KSB1_8E	PASS	PASS		Klebsiella variicola subsp. variicola	ST2994	KL35	Typeable	Klebsiella variicola subsp. variicola	ST2994	KL35	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_8F	KSB1_8F	PASS	PASS		Klebsiella variicola subsp. variicola	ST2992	KL101	Typeable	Klebsiella variicola subsp. variicola	ST2992	KL101	Perfect	True	True	0	True	True	0	True	True	True	
+KSB1_8I	KSB1_8I	PASS	PASS		Klebsiella pneumoniae	ST127	KL30	Typeable	Klebsiella pneumoniae	ST127	KL30	Very high	True	True	0	True	True	0	True	True	True	
+KSB1_9B	KSB1_9B	PASS	PASS		Klebsiella variicola subsp. variicola	ST2996	KL20	Typeable	Klebsiella variicola subsp. variicola	ST2996	KL20	High	True	True	0	True	True	0	True	True	True	
+KSB1_9E	KSB1_9E	PASS	PASS		Klebsiella pneumoniae	ST359	KL10	Typeable	Klebsiella pneumoniae	ST359	KL10	Very high	True	True	0	True	True	0	True	True	True	
+KSB2_10C.1	KSB2_10C	PASS	PASS		Klebsiella pneumoniae	ST661	KL24	Typeable	Klebsiella pneumoniae	ST661	KL24	High	True	True	0	True	True	0	True	True	True	
+KSB2_1D	KSB2_1D	PASS	PASS		Klebsiella variicola subsp. variicola	ST2995	KL134	Typeable	Klebsiella variicola subsp. variicola	ST2995	KL134	Very high	True	True	0	True	True	0	True	True	True	
+KSB2_3B	KSB2_3B	PASS	PASS		Klebsiella pneumoniae	ST215	KL16	Typeable	Klebsiella pneumoniae	ST215	KL16	Perfect	True	True	0	True	True	0	True	True	True	
+KSB2_3C	KSB2_3C	PASS	PASS		Klebsiella pneumoniae	ST310	KL1	Typeable	Klebsiella pneumoniae	ST310	KL1	Very high	True	True	0	True	True	0	True	True	True	
+KSB2_4A	KSB2_4A	REDO_DECONTAM_ECOLI	PASS		Klebsiella quasipneumoniae subsp. similipneumoniae	ST1191	KL13	Typeable	Klebsiella quasipneumoniae subsp. similipneumoniae	ST1191	KL13	Good	True	True	0	True	True	0	True	True	True	
+KSB2_4B	KSB2_4B	PASS	PASS		Klebsiella pneumoniae	ST1731	KL43	Typeable	Klebsiella pneumoniae	ST1731	KL43	Perfect	True	True	0	True	True	0	True	True	True	
+KSB2_4D	KSB2_4D	PASS	PASS		Klebsiella pneumoniae	ST35	KL22	Typeable	Klebsiella pneumoniae	ST35	KL22	Very high	True	True	0	True	True	0	True	True	True	
+KSB2_5D_v2	KSB2_5D	REDO_DECONTAM_KLEBSIELLA	DROP_INTERNAL_MISMATCH	ONT and Illumina libraries are different strains	Klebsiella variicola subsp. variicola	ST6940	KL53	Typeable	Klebsiella variicola subsp. variicola	ST1217-3LV	KL53	Good	False	True	7	True	True	1	False	True	True	
+KSB2_6A	KSB2_6A	PASS	PASS		Klebsiella variicola subsp. variicola	ST641	KL60	Typeable	Klebsiella variicola subsp. variicola	ST641	KL60	Very high	True	True	0	True	True	0	True	True	True	
+KSB2_6B.1	KSB2_6B	PASS	PASS		Klebsiella pneumoniae	ST215	KL16	Typeable	Klebsiella pneumoniae	ST215	KL16	Perfect	True	True	0	True	True	0	True	True	True	
+KSB2_6D	KSB2_6D	PASS	PASS		Klebsiella pneumoniae	ST111	KL63	Typeable	Klebsiella pneumoniae	ST111	KL63	Very high	True	True	0	True	True	0	True	True	True	
+KSB2_7A	KSB2_7A	PASS	PASS		Klebsiella pneumoniae	ST3692	KL8	Typeable	Klebsiella pneumoniae	ST3692	KL8	Very high	True	True	0	True	True	0	True	True	True	
+KSB2_7B	KSB2_7B	PASS	PASS		Klebsiella pneumoniae	ST215	KL16	Typeable	Klebsiella pneumoniae	ST215	KL16	Perfect	True	True	0	True	True	0	True	True	True	
+KSB2_7C	KSB2_7C	PASS	PASS		Klebsiella variicola subsp. variicola	ST3573	KL121	Typeable	Klebsiella variicola subsp. variicola	ST3573	KL121	Very high	True	True	0	True	True	0	True	True	True	
+KSB2_8A	KSB2_8A	PASS	PASS		Klebsiella pneumoniae	ST463	KL117	Typeable	Klebsiella pneumoniae	ST463	KL117	Perfect	True	True	0	True	True	0	True	True	True	
+KSB2_8C	KSB2_8C	PASS	PASS		Klebsiella pneumoniae	ST2267	KL127	Typeable	Klebsiella pneumoniae	ST2267	KL127	Very high	True	True	0	True	True	0	True	True	True	
+KSB2_8D	KSB2_8D	PASS	PASS		Klebsiella pneumoniae	ST643	KL38	Typeable	Klebsiella pneumoniae	ST643	KL38	Very high	True	True	0	True	True	0	True	True	True	
+KSB2_9B	KSB2_9B	PASS	PASS		Klebsiella pneumoniae	ST25	KL2	Typeable	Klebsiella pneumoniae	ST25	KL2	Very high	True	True	0	True	True	0	True	True	True	
+KSB2_9C	KSB2_9C	PASS	PASS		Klebsiella pneumoniae	ST788	KL8	Typeable	Klebsiella pneumoniae	ST788	KL8	Very high	True	True	0	True	True	0	True	True	True	

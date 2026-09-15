@@ -1,0 +1,9 @@
+
+# strain	mode	taxid	target
+# mode: keep = extract this taxid (+children); drop = exclude this taxid (+children)
+INF186	keep	1463165	Klebsiella quasipneumoniae
+INF216	keep	244366	Klebsiella variicola
+INF262_v2	keep	573	Klebsiella pneumoniae
+KSB1_2I	drop	561	Escherichia
+KSB2_4A	drop	561	Escherichia
+KSB2_5D_v2	keep	244366	Klebsiella variicola

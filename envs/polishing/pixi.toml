@@ -1,0 +1,16 @@
+# Long- and short-read polishing. Covers script 17; script 16 runs the same chain
+# through clinopore-nf, which manages its own conda environments.
+#
+#   pixi install --manifest-path envs/polishing
+#
+# Medaka 1.7.0 pins an old Python and TensorFlow, which is why polishing cannot share an
+# environment with the assembly or taxonomy stacks.
+[workspace]
+name = "kaspah-polishing"
+channels = ["conda-forge", "bioconda"]
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[dependencies]
+medaka = "==1.7.0"
+masurca = "==3.4.2"

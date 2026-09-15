@@ -1,0 +1,22 @@
+# Contamination screening, typing and completeness.
+# Covers scripts 09, 10, 14, 18, 19, 20.
+#
+#   pixi install --manifest-path envs/taxonomy
+#
+# flye and filtlong appear here as well as in assembly.toml because 14_decontaminate.sh
+# extracts reads and reassembles them in one step.
+# The Kraken2 standard database (k2_standard_20251015, ~95 GB) is downloaded separately.
+[workspace]
+name = "kaspah-taxonomy"
+channels = ["conda-forge", "bioconda"]
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[dependencies]
+kraken2 = "==2.17.1"
+krakentools = "*"
+kleborate = "==3.2.4"
+checkm2 = "==1.1.0"
+mash = "==2.3"
+flye = "==2.9.6"
+filtlong = "==0.3.1"
